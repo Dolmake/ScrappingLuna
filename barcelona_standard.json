@@ -1,0 +1,4194 @@
+{
+    "stations": [
+        {
+            "id": 0,
+            "city": "Barcelona",
+            "latitude": "41.397952",
+            "longitude": "2.180042",
+            "name": "Gran Via Corts Catalanes, 760",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 1,
+            "city": "Barcelona",
+            "latitude": "41.385531",
+            "longitude": "2.183527",
+            "name": "Pl. Comercial, 11",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 2,
+            "city": "Barcelona",
+            "latitude": "41.379135",
+            "longitude": "2.14409",
+            "name": "Tarragona, 159",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 3,
+            "city": "Barcelona",
+            "latitude": "41.392988",
+            "longitude": "2.143562",
+            "name": "Av. Pau Casals, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 4,
+            "city": "Barcelona",
+            "latitude": "41.393093",
+            "longitude": "2.143365",
+            "name": "Av. Pau Casals, 3",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 5,
+            "city": "Barcelona",
+            "latitude": "41.409856",
+            "longitude": "2.188217",
+            "name": "Arag\u00f3, 629",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 6,
+            "city": "Barcelona",
+            "latitude": "41.410821",
+            "longitude": "2.187365",
+            "name": "C/Val\u00e8ncia, 621",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 7,
+            "city": "Barcelona",
+            "latitude": "41.389069",
+            "longitude": "2.173424",
+            "name": "PL. Urquinaona, 9",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 8,
+            "city": "Barcelona",
+            "latitude": "41.405587",
+            "longitude": "2.162317",
+            "name": "Pl. Joanic, 59",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 9,
+            "city": "Barcelona",
+            "latitude": "41.398298",
+            "longitude": "2.153128",
+            "name": "Travessera de Gracia, 92",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 10,
+            "city": "Barcelona",
+            "latitude": "41.402314",
+            "longitude": "2.164961",
+            "name": "Ind\u00fastria, 10",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 11,
+            "city": "Barcelona",
+            "latitude": "41.390981",
+            "longitude": "2.14737",
+            "name": "C/ Londres, 53",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 12,
+            "city": "Barcelona",
+            "latitude": "41.381689",
+            "longitude": "2.193914",
+            "name": "Trelawny, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 13,
+            "city": "Barcelona",
+            "latitude": "41.385554",
+            "longitude": "2.154813",
+            "name": "Avda. Roma, 117",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 14,
+            "city": "Barcelona",
+            "latitude": "41.381096",
+            "longitude": "2.153087",
+            "name": "Calabria, 135",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 15,
+            "city": "Barcelona",
+            "latitude": "41.377644",
+            "longitude": "2.15725",
+            "name": "Floridablanca, 49",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 16,
+            "city": "Barcelona",
+            "latitude": "41.378836",
+            "longitude": "2.160801",
+            "name": "Comte Borrell, 60",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 17,
+            "city": "Barcelona",
+            "latitude": "41.376801",
+            "longitude": "2.173039",
+            "name": "Pl. Jean Genet, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 18,
+            "city": "Barcelona",
+            "latitude": "41.383275",
+            "longitude": "2.183704",
+            "name": "Marqu\u00e8s d'Argentera, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 19,
+            "city": "Barcelona",
+            "latitude": "41.383718",
+            "longitude": "2.191414",
+            "name": "Salvat Papasseit, 72",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 20,
+            "city": "Barcelona",
+            "latitude": "41.390666",
+            "longitude": "2.197024",
+            "name": "Rosa Sensat, 9",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 21,
+            "city": "Barcelona",
+            "latitude": "41.391884",
+            "longitude": "2.187302",
+            "name": "Pujades, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 22,
+            "city": "Barcelona",
+            "latitude": "41.396632",
+            "longitude": "2.182802",
+            "name": "Ausi\u00e0s March, 122",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 23,
+            "city": "Barcelona",
+            "latitude": "41.384538",
+            "longitude": "2.195679",
+            "name": "pg mar\u00edtim barceloneta, 23",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 24,
+            "city": "Barcelona",
+            "latitude": "41.404666",
+            "longitude": "2.176515",
+            "name": "Lepant, 278",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 25,
+            "city": "Barcelona",
+            "latitude": "41.406293",
+            "longitude": "2.178689",
+            "name": "Castillejos, 258",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 26,
+            "city": "Barcelona",
+            "latitude": "41.405435",
+            "longitude": "2.16624",
+            "name": "N\u00e0pols, 344",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 27,
+            "city": "Barcelona",
+            "latitude": "41.397411",
+            "longitude": "2.167798",
+            "name": "Girona, 126",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 28,
+            "city": "Barcelona",
+            "latitude": "41.377131",
+            "longitude": "2.190857",
+            "name": "Atlantida, 82",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 29,
+            "city": "Barcelona",
+            "latitude": "41.384426",
+            "longitude": "2.195595",
+            "name": "Passeig Maritim, 31",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 30,
+            "city": "Barcelona",
+            "latitude": "41.380641",
+            "longitude": "2.182243",
+            "name": "Passeig de Colom",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 31,
+            "city": "Barcelona",
+            "latitude": "41.412322",
+            "longitude": "2.19142",
+            "name": "Arag\u00f3, 661",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 32,
+            "city": "Barcelona",
+            "latitude": "41.415581",
+            "longitude": "2.19581",
+            "name": "Rambla Guip\u00fascoa, 43",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 33,
+            "city": "Barcelona",
+            "latitude": "41.417341",
+            "longitude": "2.198102",
+            "name": "Rambla Guip\u00fascoa, 67",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 34,
+            "city": "Barcelona",
+            "latitude": "41.386861",
+            "longitude": "2.195761",
+            "name": "Avinguda Litoral, 16",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 35,
+            "city": "Barcelona",
+            "latitude": "41.419905",
+            "longitude": "2.201573",
+            "name": "Rambla Guip\u00fascoa, 103",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 36,
+            "city": "Barcelona",
+            "latitude": "41.422808",
+            "longitude": "2.206036",
+            "name": "Rambla Guip\u00fascoa, 158",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 37,
+            "city": "Barcelona",
+            "latitude": "41.408439",
+            "longitude": "2.192173",
+            "name": "Pl. Valent\u00ed Amirall",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 38,
+            "city": "Barcelona",
+            "latitude": "41.407411",
+            "longitude": "2.192819",
+            "name": "Gran V\u00eda, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 39,
+            "city": "Barcelona",
+            "latitude": "41.411315",
+            "longitude": "2.198126",
+            "name": "Gran Via, 990",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 40,
+            "city": "Barcelona",
+            "latitude": "41.411908",
+            "longitude": "2.197936",
+            "name": "Gran V\u00eda, 981",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 41,
+            "city": "Barcelona",
+            "latitude": "41.414226",
+            "longitude": "2.201734",
+            "name": "Gran V\u00eda, 1062",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 42,
+            "city": "Barcelona",
+            "latitude": "41.414758",
+            "longitude": "2.201538",
+            "name": "Gran V\u00eda, 1041/ Selva de Mar",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 43,
+            "city": "Barcelona",
+            "latitude": "41.416966",
+            "longitude": "2.205397",
+            "name": "Gran V\u00eda, 1118",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 44,
+            "city": "Barcelona",
+            "latitude": "41.418035",
+            "longitude": "2.206023",
+            "name": "Gran V\u00eda, 1131",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 45,
+            "city": "Barcelona",
+            "latitude": "41.384825",
+            "longitude": "2.185074",
+            "name": "Avinguda del Marques Argentera, 19",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 46,
+            "city": "Barcelona",
+            "latitude": "41.419733",
+            "longitude": "2.20907",
+            "name": "Gran V\u00eda, 1178",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 47,
+            "city": "Barcelona",
+            "latitude": "41.40902",
+            "longitude": "2.194896",
+            "name": "Gran Via , 940",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 48,
+            "city": "Barcelona",
+            "latitude": "41.400503",
+            "longitude": "2.192511",
+            "name": "Sancho de \u00c1vila, 130",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 49,
+            "city": "Barcelona",
+            "latitude": "41.402216",
+            "longitude": "2.194782",
+            "name": "Sancho de \u00c1vila, 170",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 50,
+            "city": "Barcelona",
+            "latitude": "41.40562",
+            "longitude": "2.19764",
+            "name": "Castella, 28",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 51,
+            "city": "Barcelona",
+            "latitude": "41.40982",
+            "longitude": "2.202904",
+            "name": "Pere IV, 301",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 52,
+            "city": "Barcelona",
+            "latitude": "41.412453",
+            "longitude": "2.204841",
+            "name": "Pere IV, 383",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 53,
+            "city": "Barcelona",
+            "latitude": "41.416018",
+            "longitude": "2.212658",
+            "name": "Rambla Prim, 79",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 54,
+            "city": "Barcelona",
+            "latitude": "41.378436",
+            "longitude": "2.163324",
+            "name": "Ronda Sant Pau, 79",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 55,
+            "city": "Barcelona",
+            "latitude": "41.395905",
+            "longitude": "2.192958",
+            "name": "Pujades, 55",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 56,
+            "city": "Barcelona",
+            "latitude": "41.395213",
+            "longitude": "2.170718",
+            "name": "Girona, 75",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 57,
+            "city": "Barcelona",
+            "latitude": "41.406549",
+            "longitude": "2.203112",
+            "name": "Espronceda, 124",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 58,
+            "city": "Barcelona",
+            "latitude": "41.413163",
+            "longitude": "2.216085",
+            "name": "Pujades, 462",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 59,
+            "city": "Barcelona",
+            "latitude": "41.39925",
+            "longitude": "2.197421",
+            "name": "Pujades, 121",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 60,
+            "city": "Barcelona",
+            "latitude": "41.401778",
+            "longitude": "2.200769",
+            "name": "Pujades, 173",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 61,
+            "city": "Barcelona",
+            "latitude": "41.402454",
+            "longitude": "2.201656",
+            "name": "Pujades, 191",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 62,
+            "city": "Barcelona",
+            "latitude": "41.406977",
+            "longitude": "2.207602",
+            "name": "Pujades, 311",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 63,
+            "city": "Barcelona",
+            "latitude": "41.408923",
+            "longitude": "2.208551",
+            "name": "Diagonal, 82",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 64,
+            "city": "Barcelona",
+            "latitude": "41.411636",
+            "longitude": "2.216337",
+            "name": "C/Llull, 396",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 65,
+            "city": "Barcelona",
+            "latitude": "41.411655",
+            "longitude": "2.218742",
+            "name": "Rambla de Prim, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 66,
+            "city": "Barcelona",
+            "latitude": "41.410916",
+            "longitude": "2.216381",
+            "name": "Avda. Diagonal, 26",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 67,
+            "city": "Barcelona",
+            "latitude": "41.39827",
+            "longitude": "2.186708",
+            "name": "Av. Meridiana, 47",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 68,
+            "city": "Barcelona",
+            "latitude": "41.411026",
+            "longitude": "2.219377",
+            "name": "Avda. d'Eduard Maristany, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 69,
+            "city": "Barcelona",
+            "latitude": "41.395009",
+            "longitude": "2.196308",
+            "name": "Ramon Turro, 91",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 70,
+            "city": "Barcelona",
+            "latitude": "41.404367",
+            "longitude": "2.208752",
+            "name": "Ramon Turro, 287",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 71,
+            "city": "Barcelona",
+            "latitude": "41.392624",
+            "longitude": "2.198886",
+            "name": "Avda. Icaria, 202",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 72,
+            "city": "Barcelona",
+            "latitude": "41.41194",
+            "longitude": "2.178037",
+            "name": "Independ\u00e8ncia, 379",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 73,
+            "city": "Barcelona",
+            "latitude": "41.399196",
+            "longitude": "2.204253",
+            "name": "Carrer del Doctor Trueta, 222",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 74,
+            "city": "Barcelona",
+            "latitude": "41.401077",
+            "longitude": "2.207632",
+            "name": "Passeig de Taulat, 116",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 75,
+            "city": "Barcelona",
+            "latitude": "41.403446",
+            "longitude": "2.211166",
+            "name": "Passeig de Taulat, 188",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 76,
+            "city": "Barcelona",
+            "latitude": "41.405216",
+            "longitude": "2.213518",
+            "name": "Passeig de Taulat, 238",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 77,
+            "city": "Barcelona",
+            "latitude": "41.389896",
+            "longitude": "2.200055",
+            "name": "Avda. Litoral, 40",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 78,
+            "city": "Barcelona",
+            "latitude": "41.398237",
+            "longitude": "2.186711",
+            "name": "Av. Meridiana, 47",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 79,
+            "city": "Barcelona",
+            "latitude": "41.389732",
+            "longitude": "2.199934",
+            "name": "Avda. Litoral, 40",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 80,
+            "city": "Barcelona",
+            "latitude": "41.391986",
+            "longitude": "2.203699",
+            "name": "Passeig Mar\u00edtim de la Nova Ic\u00e0ria, 83",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 81,
+            "city": "Barcelona",
+            "latitude": "41.391831",
+            "longitude": "2.203436",
+            "name": "Passeig Mar\u00edtim de la Nova Ic\u00e0ria, 83",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 82,
+            "city": "Barcelona",
+            "latitude": "41.398027",
+            "longitude": "2.208982",
+            "name": "Avda. Litoral, 84",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 83,
+            "city": "Barcelona",
+            "latitude": "41.40061",
+            "longitude": "2.210461",
+            "name": "Passeig de Garcia F\u00e0ria, 21",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 84,
+            "city": "Barcelona",
+            "latitude": "41.400159",
+            "longitude": "2.212783",
+            "name": "Passeig mar\u00edtim de la mar bella ",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 85,
+            "city": "Barcelona",
+            "latitude": "41.402541",
+            "longitude": "2.212641",
+            "name": "Passeig de Garcia F\u00e0ria, 37",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 86,
+            "city": "Barcelona",
+            "latitude": "41.411089",
+            "longitude": "2.181119",
+            "name": "Rossell\u00f3, 557",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 87,
+            "city": "Barcelona",
+            "latitude": "41.405389",
+            "longitude": "2.216212",
+            "name": "Passeig de Garcia F\u00e0ria, 85",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 88,
+            "city": "Barcelona",
+            "latitude": "41.365306",
+            "longitude": "2.135678",
+            "name": "Rambla Badal, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 89,
+            "city": "Barcelona",
+            "latitude": "41.405881",
+            "longitude": "2.17414",
+            "name": "Rossell\u00f3, 412",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 90,
+            "city": "Barcelona",
+            "latitude": "41.368177",
+            "longitude": "2.139439",
+            "name": "Gran Via, 181",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 91,
+            "city": "Barcelona",
+            "latitude": "41.368392",
+            "longitude": "2.139726",
+            "name": "Gran Via, 180",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 92,
+            "city": "Barcelona",
+            "latitude": "41.371455",
+            "longitude": "2.143882",
+            "name": "Gran Via, 273",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 93,
+            "city": "Barcelona",
+            "latitude": "41.372338",
+            "longitude": "2.141875",
+            "name": "Gav\u00e0, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 94,
+            "city": "Barcelona",
+            "latitude": "41.367504",
+            "longitude": "2.134088",
+            "name": "Quetzal, 22",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 95,
+            "city": "Barcelona",
+            "latitude": "41.37046",
+            "longitude": "2.138994",
+            "name": "GAV\u00c0, 81",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 96,
+            "city": "Barcelona",
+            "latitude": "41.375571",
+            "longitude": "2.143812",
+            "name": "Consell de Cent, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 97,
+            "city": "Barcelona",
+            "latitude": "41.376858",
+            "longitude": "2.169811",
+            "name": "Carrer de Sant Pau, 89",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 98,
+            "city": "Barcelona",
+            "latitude": "41.375929",
+            "longitude": "2.134695",
+            "name": "Joan G\u00fcell, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 99,
+            "city": "Barcelona",
+            "latitude": "41.396918",
+            "longitude": "2.166163",
+            "name": "Bruc, 130",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 100,
+            "city": "Barcelona",
+            "latitude": "41.403282",
+            "longitude": "2.170726",
+            "name": "Rossello, 354",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 101,
+            "city": "Barcelona",
+            "latitude": "41.39606",
+            "longitude": "2.207803",
+            "name": "Avinguda Litoral, 72",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 102,
+            "city": "Barcelona",
+            "latitude": "41.382564",
+            "longitude": "2.149094",
+            "name": "Rocafort, 167",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 103,
+            "city": "Barcelona",
+            "latitude": "41.379814",
+            "longitude": "2.132802",
+            "name": "Joan G\u00fcell, 85",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 104,
+            "city": "Barcelona",
+            "latitude": "41.381311",
+            "longitude": "2.128912",
+            "name": "Figols, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 105,
+            "city": "Barcelona",
+            "latitude": "41.382258",
+            "longitude": "2.131652",
+            "name": "Joan G\u00fcell, 128",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 106,
+            "city": "Barcelona",
+            "latitude": "41.38234",
+            "longitude": "2.136186",
+            "name": "Comtes de Bell-lloc, 148",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 107,
+            "city": "Barcelona",
+            "latitude": "41.384522",
+            "longitude": "2.134698",
+            "name": "Comte Bell-lloch, 216",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 108,
+            "city": "Barcelona",
+            "latitude": "41.386398",
+            "longitude": "2.139821",
+            "name": "Taquigraf Serra, 18",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 109,
+            "city": "Barcelona",
+            "latitude": "41.38512",
+            "longitude": "2.133282",
+            "name": "Vallespir, 198",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 110,
+            "city": "Barcelona",
+            "latitude": "41.38182",
+            "longitude": "2.126933",
+            "name": "Mej\u00eda Lequerica, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 111,
+            "city": "Barcelona",
+            "latitude": "41.394272",
+            "longitude": "2.175169",
+            "name": "Plaza Tetu\u00e1n, 8",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 112,
+            "city": "Barcelona",
+            "latitude": "41.409758",
+            "longitude": "2.17462",
+            "name": "Ind\u00fastria, 157",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 113,
+            "city": "Barcelona",
+            "latitude": "41.383712",
+            "longitude": "2.131377",
+            "name": "Can bruixa, 14",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 114,
+            "city": "Barcelona",
+            "latitude": "41.388455",
+            "longitude": "2.135826",
+            "name": "Deu i Mata, 56",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 115,
+            "city": "Barcelona",
+            "latitude": "41.385331",
+            "longitude": "2.128737",
+            "name": "Carrer de les Corts, 20",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 116,
+            "city": "Barcelona",
+            "latitude": "41.388742",
+            "longitude": "2.128503",
+            "name": "Avda. Diagonal, 664",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 117,
+            "city": "Barcelona",
+            "latitude": "41.388011",
+            "longitude": "2.125593",
+            "name": "Avda. Diagonal, 668",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 118,
+            "city": "Barcelona",
+            "latitude": "41.387465",
+            "longitude": "2.130838",
+            "name": "Europa , 25",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 119,
+            "city": "Barcelona",
+            "latitude": "41.389845",
+            "longitude": "2.13284",
+            "name": "Avda. Diagonal, 650",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 120,
+            "city": "Barcelona",
+            "latitude": "41.390828",
+            "longitude": "2.136665",
+            "name": "Avda. Diagonal, 634",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 121,
+            "city": "Barcelona",
+            "latitude": "41.391451",
+            "longitude": "2.139116",
+            "name": "Avda. Diagonal, 630",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 122,
+            "city": "Barcelona",
+            "latitude": "41.385755",
+            "longitude": "2.161004",
+            "name": "Diputaci\u00f3, 200",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 123,
+            "city": "Barcelona",
+            "latitude": "41.410897",
+            "longitude": "2.17402",
+            "name": "Sant Antoni Maria Claret, 214",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 124,
+            "city": "Barcelona",
+            "latitude": "41.37453",
+            "longitude": "2.142356",
+            "name": "Vilardell, 18",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 125,
+            "city": "Barcelona",
+            "latitude": "41.398848",
+            "longitude": "2.190291",
+            "name": "Sancho de \u00c1vila, 60",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 126,
+            "city": "Barcelona",
+            "latitude": "41.392173",
+            "longitude": "2.130319",
+            "name": "Numancia, 212",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 127,
+            "city": "Barcelona",
+            "latitude": "41.392485",
+            "longitude": "2.135586",
+            "name": "Doctor Fleming, 9",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 128,
+            "city": "Barcelona",
+            "latitude": "41.393976",
+            "longitude": "2.13496",
+            "name": "Doctor Fleming, 19",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 129,
+            "city": "Barcelona",
+            "latitude": "41.394527",
+            "longitude": "2.138637",
+            "name": "Carrer de Francesc P\u00e9rez Cabrero, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 130,
+            "city": "Barcelona",
+            "latitude": "41.396809",
+            "longitude": "2.144534",
+            "name": "Madrazo, 131",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 131,
+            "city": "Barcelona",
+            "latitude": "41.398463",
+            "longitude": "2.143924",
+            "name": "Rector Ubach, 24",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 132,
+            "city": "Barcelona",
+            "latitude": "41.404114",
+            "longitude": "2.183203",
+            "name": "Consell de Cent, 566",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 133,
+            "city": "Barcelona",
+            "latitude": "41.397812",
+            "longitude": "2.147585",
+            "name": "Carre Laforja, 74",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 134,
+            "city": "Barcelona",
+            "latitude": "41.402051",
+            "longitude": "2.175206",
+            "name": "Sardenya, 296",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 135,
+            "city": "Barcelona",
+            "latitude": "41.396229",
+            "longitude": "2.151482",
+            "name": "Tuset, 19",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 136,
+            "city": "Barcelona",
+            "latitude": "41.402535",
+            "longitude": "2.152519",
+            "name": "Gran de Gr\u00e0cia, 155",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 137,
+            "city": "Barcelona",
+            "latitude": "41.40124",
+            "longitude": "2.157483",
+            "name": "Carrer del Can\u00f3, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 138,
+            "city": "Barcelona",
+            "latitude": "41.398311",
+            "longitude": "2.159865",
+            "name": "Carrer de Bonavista, 14",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 139,
+            "city": "Barcelona",
+            "latitude": "41.399102",
+            "longitude": "2.165556",
+            "name": "Girona, 156",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 140,
+            "city": "Barcelona",
+            "latitude": "41.403465",
+            "longitude": "2.161096",
+            "name": "Montmany, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 141,
+            "city": "Barcelona",
+            "latitude": "41.407837",
+            "longitude": "2.158678",
+            "name": "Torrent de Les Flors, 102",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 142,
+            "city": "Barcelona",
+            "latitude": "41.40694",
+            "longitude": "2.155794",
+            "name": "Pl. Del Nord, 5",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 143,
+            "city": "Barcelona",
+            "latitude": "41.405107",
+            "longitude": "2.156874",
+            "name": "Carrer de la Santacreu, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 144,
+            "city": "Barcelona",
+            "latitude": "41.392526",
+            "longitude": "2.171812",
+            "name": "Bruc, 45",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 145,
+            "city": "Barcelona",
+            "latitude": "41.405986",
+            "longitude": "2.151633",
+            "name": "C. De Nil Fabra, 16",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 146,
+            "city": "Barcelona",
+            "latitude": "41.409115",
+            "longitude": "2.16327",
+            "name": "C. Del Secretari Coloma, 59",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 147,
+            "city": "Barcelona",
+            "latitude": "41.373509",
+            "longitude": "2.171002",
+            "name": "Vil\u00e0 i Vil\u00e0, 45",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 148,
+            "city": "Barcelona",
+            "latitude": "41.371965",
+            "longitude": "2.166871",
+            "name": "Nou de la Rambla, 164",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 149,
+            "city": "Barcelona",
+            "latitude": "41.371515",
+            "longitude": "2.162166",
+            "name": "Passeig de l'Exposici\u00f3, 30",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 150,
+            "city": "Barcelona",
+            "latitude": "41.373764",
+            "longitude": "2.161632",
+            "name": "Elkano, 64",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 151,
+            "city": "Barcelona",
+            "latitude": "41.372162",
+            "longitude": "2.156554",
+            "name": "Carrer de la Fran\u00e7a Xica, 42",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 152,
+            "city": "Barcelona",
+            "latitude": "41.372891",
+            "longitude": "2.154471",
+            "name": "Rius i Taulet, 4",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 153,
+            "city": "Barcelona",
+            "latitude": "41.415684",
+            "longitude": "2.190986",
+            "name": "Espronceda, 298",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 154,
+            "city": "Barcelona",
+            "latitude": "41.417315",
+            "longitude": "2.184712",
+            "name": "Ind\u00fastria, 344",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 155,
+            "city": "Barcelona",
+            "latitude": "41.399982",
+            "longitude": "2.180319",
+            "name": "Marina, 185",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 156,
+            "city": "Barcelona",
+            "latitude": "41.417763",
+            "longitude": "2.187558",
+            "name": "Josep Estivill, 32",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 157,
+            "city": "Barcelona",
+            "latitude": "41.419858",
+            "longitude": "2.181234",
+            "name": "Pl. Maragall, 22",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 158,
+            "city": "Barcelona",
+            "latitude": "41.424451",
+            "longitude": "2.177284",
+            "name": "Ramon Alb\u00f3, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 159,
+            "city": "Barcelona",
+            "latitude": "41.423939",
+            "longitude": "2.181298",
+            "name": "Alenxadre Gal\u00ed, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 160,
+            "city": "Barcelona",
+            "latitude": "41.426896",
+            "longitude": "2.178511",
+            "name": "Felip II, 214",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 161,
+            "city": "Barcelona",
+            "latitude": "41.422561",
+            "longitude": "2.185734",
+            "name": "Juan de Garay, 116",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 162,
+            "city": "Barcelona",
+            "latitude": "41.422811",
+            "longitude": "2.185171",
+            "name": "Olesa, 43",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 163,
+            "city": "Barcelona",
+            "latitude": "41.418208",
+            "longitude": "2.190374",
+            "name": "Pal\u00e8ncia, 31",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 164,
+            "city": "Barcelona",
+            "latitude": "41.425216",
+            "longitude": "2.188997",
+            "name": "A\u00e7ores, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 165,
+            "city": "Barcelona",
+            "latitude": "41.395179",
+            "longitude": "2.168294",
+            "name": "Bruc, 102",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 166,
+            "city": "Barcelona",
+            "latitude": "41.426248",
+            "longitude": "2.190132",
+            "name": "Portugal, 12",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 167,
+            "city": "Barcelona",
+            "latitude": "41.425405",
+            "longitude": "2.185226",
+            "name": "Cardenal Tedeschini, 13",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 168,
+            "city": "Barcelona",
+            "latitude": "41.428184",
+            "longitude": "2.193402",
+            "name": "Carrer del Pare Manyanet, 23",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 169,
+            "city": "Barcelona",
+            "latitude": "41.429977",
+            "longitude": "2.191821",
+            "name": "Onze de Setembre, 37",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 170,
+            "city": "Barcelona",
+            "latitude": "41.430343",
+            "longitude": "2.189581",
+            "name": "Gran de Sant Andreu, 93",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 171,
+            "city": "Barcelona",
+            "latitude": "41.431183",
+            "longitude": "2.185852",
+            "name": "Irlanda, 11",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 172,
+            "city": "Barcelona",
+            "latitude": "41.435998",
+            "longitude": "2.189524",
+            "name": "Malats, 28",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 173,
+            "city": "Barcelona",
+            "latitude": "41.433897",
+            "longitude": "2.189614",
+            "name": "Sant Adri\u00e0, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 174,
+            "city": "Barcelona",
+            "latitude": "41.442013",
+            "longitude": "2.189101",
+            "name": "Carrer de Palomar, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 175,
+            "city": "Barcelona",
+            "latitude": "41.439109",
+            "longitude": "2.185818",
+            "name": "Carrer de Bartrina, 14",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 176,
+            "city": "Barcelona",
+            "latitude": "41.407035",
+            "longitude": "2.181981",
+            "name": "Dos Maig, 230",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 177,
+            "city": "Barcelona",
+            "latitude": "41.43618",
+            "longitude": "2.192952",
+            "name": "Pla\u00e7a de l'Estaci\u00f3, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 178,
+            "city": "Barcelona",
+            "latitude": "41.382206",
+            "longitude": "2.160644",
+            "name": "Villarroel, 39",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 179,
+            "city": "Barcelona",
+            "latitude": "41.379821",
+            "longitude": "2.152496",
+            "name": "Rocafort, 103",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 180,
+            "city": "Barcelona",
+            "latitude": "41.437656",
+            "longitude": "2.191386",
+            "name": "C/Joan Torras, 28",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 181,
+            "city": "Barcelona",
+            "latitude": "41.439949",
+            "longitude": "2.197033",
+            "name": "Rep\u00fablica Dominicana, 25",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 182,
+            "city": "Barcelona",
+            "latitude": "41.447656",
+            "longitude": "2.19988",
+            "name": "Pla\u00e7a Bar\u00f3 de Viver, 22",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 183,
+            "city": "Barcelona",
+            "latitude": "41.443395",
+            "longitude": "2.190623",
+            "name": "Passeig Torras i Bages, 129",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 184,
+            "city": "Barcelona",
+            "latitude": "41.445705",
+            "longitude": "2.192892",
+            "name": "Coronel Monasterio, 26",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 185,
+            "city": "Barcelona",
+            "latitude": "41.448128",
+            "longitude": "2.192826",
+            "name": "Via Barcino, 121",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 186,
+            "city": "Barcelona",
+            "latitude": "41.396881",
+            "longitude": "2.164415",
+            "name": "Proven\u00e7a, 322",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 187,
+            "city": "Barcelona",
+            "latitude": "41.449874",
+            "longitude": "2.190978",
+            "name": "Pl. de la Trinitat, 5-7 / amb Mare de D\u00e9u de Lorda",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 188,
+            "city": "Barcelona",
+            "latitude": "41.450882",
+            "longitude": "2.192668",
+            "name": "Via Barcino, 71",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 189,
+            "city": "Barcelona",
+            "latitude": "41.432552",
+            "longitude": "2.18429",
+            "name": "Concepci\u00f3 Arenal, 281",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 190,
+            "city": "Barcelona",
+            "latitude": "41.430404",
+            "longitude": "2.183382",
+            "name": "Avda. Meridiana, 404",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 191,
+            "city": "Barcelona",
+            "latitude": "41.430071",
+            "longitude": "2.18473",
+            "name": "Avda. Meridiana, 404",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 192,
+            "city": "Barcelona",
+            "latitude": "41.430693",
+            "longitude": "2.182225",
+            "name": "Rio de Janeiro, 3",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 193,
+            "city": "Barcelona",
+            "latitude": "41.412163",
+            "longitude": "2.165275",
+            "name": "Pla\u00e7a Alfons X el Savi / Ronda del Guinard\u00f3 ",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 194,
+            "city": "Barcelona",
+            "latitude": "41.408436",
+            "longitude": "2.169074",
+            "name": "Travessera de Gr\u00e0cia, 373",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 195,
+            "city": "Barcelona",
+            "latitude": "41.411503",
+            "longitude": "2.172073",
+            "name": "Rosalia de Castro, 41",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 196,
+            "city": "Barcelona",
+            "latitude": "41.416658",
+            "longitude": "2.174593",
+            "name": "Ronda Guinardo, 118",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 197,
+            "city": "Barcelona",
+            "latitude": "41.407261",
+            "longitude": "2.170871",
+            "name": "Marina, 311",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 198,
+            "city": "Barcelona",
+            "latitude": "41.412804",
+            "longitude": "2.17853",
+            "name": "Industria , 241",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 199,
+            "city": "Barcelona",
+            "latitude": "41.419384",
+            "longitude": "2.176524",
+            "name": "Ronda Guinardo, 179",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 200,
+            "city": "Barcelona",
+            "latitude": "41.427561",
+            "longitude": "2.166022",
+            "name": "Font d'en Fargas, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 201,
+            "city": "Barcelona",
+            "latitude": "41.430808",
+            "longitude": "2.16072",
+            "name": "Pla\u00e7a Eivissa, 10",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 202,
+            "city": "Barcelona",
+            "latitude": "41.389503",
+            "longitude": "2.131454",
+            "name": "Ada. Diagonal, 652",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 203,
+            "city": "Barcelona",
+            "latitude": "41.436708",
+            "longitude": "2.186059",
+            "name": "Malats, 98",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 204,
+            "city": "Barcelona",
+            "latitude": "41.403103",
+            "longitude": "2.191428",
+            "name": "Bol\u00edvia, 76",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 205,
+            "city": "Barcelona",
+            "latitude": "41.389171",
+            "longitude": "2.168113",
+            "name": "Gran Via, 632",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 206,
+            "city": "Barcelona",
+            "latitude": "41.416828",
+            "longitude": "2.191022",
+            "name": "P. Fabra i Puig, 323",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 207,
+            "city": "Barcelona",
+            "latitude": "41.401101",
+            "longitude": "2.170082",
+            "name": "Proven\u00e7a, 388",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 208,
+            "city": "Barcelona",
+            "latitude": "41.437094",
+            "longitude": "2.174047",
+            "name": "Pla\u00e7a dels Jardins d'Alf\u00e0bia, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 209,
+            "city": "Barcelona",
+            "latitude": "41.426975",
+            "longitude": "2.174598",
+            "name": "Subirats, 5",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 210,
+            "city": "Barcelona",
+            "latitude": "41.430036",
+            "longitude": "2.171974",
+            "name": "Amilcar, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 211,
+            "city": "Barcelona",
+            "latitude": "41.428747",
+            "longitude": "2.164559",
+            "name": "Petrarca, 44",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 212,
+            "city": "Barcelona",
+            "latitude": "41.436373",
+            "longitude": "2.170678",
+            "name": "Seu del Districte (Nou Barris)",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 213,
+            "city": "Barcelona",
+            "latitude": "41.43345",
+            "longitude": "2.1715",
+            "name": "Sant Iscle, 60",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 214,
+            "city": "Barcelona",
+            "latitude": "41.436505",
+            "longitude": "2.183877",
+            "name": "Carrer de Rossell\u00f3 i Porcel, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 215,
+            "city": "Barcelona",
+            "latitude": "41.438864",
+            "longitude": "2.176822",
+            "name": "Carrer Tur\u00f3 Blau, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 216,
+            "city": "Barcelona",
+            "latitude": "41.43463",
+            "longitude": "2.181747",
+            "name": "Andreu Nin, 22",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 217,
+            "city": "Barcelona",
+            "latitude": "41.433965",
+            "longitude": "2.175199",
+            "name": "Carrer de l'Escultor Ord\u00f3\u00f1ez, 55",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 218,
+            "city": "Barcelona",
+            "latitude": "41.393699",
+            "longitude": "2.181137",
+            "name": "Ali Bei, 44",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 219,
+            "city": "Barcelona",
+            "latitude": "41.402046",
+            "longitude": "2.182286",
+            "name": "Diagonal, 231",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 220,
+            "city": "Barcelona",
+            "latitude": "41.431593",
+            "longitude": "2.176909",
+            "name": "Carrer de Maladeta, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 221,
+            "city": "Barcelona",
+            "latitude": "41.437053",
+            "longitude": "2.169644",
+            "name": "Marie Curie, 8",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 222,
+            "city": "Barcelona",
+            "latitude": "41.39065",
+            "longitude": "2.111615",
+            "name": "Cavallers, 41",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 223,
+            "city": "Barcelona",
+            "latitude": "41.393075",
+            "longitude": "2.114875",
+            "name": "Cavallers, 66",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 224,
+            "city": "Barcelona",
+            "latitude": "41.38989",
+            "longitude": "2.12188",
+            "name": "Jim\u00e9nez Iglesias, 15",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 225,
+            "city": "Barcelona",
+            "latitude": "41.387498",
+            "longitude": "2.123637",
+            "name": "Diagonal, 680",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 226,
+            "city": "Barcelona",
+            "latitude": "41.385465",
+            "longitude": "2.122912",
+            "name": "Doctor Salvador Cardenal, 7",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 227,
+            "city": "Barcelona",
+            "latitude": "41.379135",
+            "longitude": "2.113505",
+            "name": "Pintor Ribalta",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 228,
+            "city": "Barcelona",
+            "latitude": "41.376788",
+            "longitude": "2.113864",
+            "name": "Cardenal Reig, 11",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 229,
+            "city": "Barcelona",
+            "latitude": "41.37674",
+            "longitude": "2.116973",
+            "name": "Sant Ram\u00f3n Nonat, 26",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 230,
+            "city": "Barcelona",
+            "latitude": "41.375807",
+            "longitude": "2.189067",
+            "name": "Passeig Joan Borb\u00f3, 72",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 231,
+            "city": "Barcelona",
+            "latitude": "41.381223",
+            "longitude": "2.119077",
+            "name": "Josep Samitier",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 232,
+            "city": "Barcelona",
+            "latitude": "41.378172",
+            "longitude": "2.121826",
+            "name": "Travessera de les Corts, 58",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 233,
+            "city": "Barcelona",
+            "latitude": "41.379816",
+            "longitude": "2.126588",
+            "name": "Felipe de Paz, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 234,
+            "city": "Barcelona",
+            "latitude": "41.374558",
+            "longitude": "2.131016",
+            "name": "C\u00e1ceres, 53",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 235,
+            "city": "Barcelona",
+            "latitude": "41.37836",
+            "longitude": "2.129737",
+            "name": "Rambla del Brasil, 44",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 236,
+            "city": "Barcelona",
+            "latitude": "41.415617",
+            "longitude": "2.181966",
+            "name": "Guinard\u00f3, 32",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 237,
+            "city": "Barcelona",
+            "latitude": "41.422212",
+            "longitude": "2.198316",
+            "name": "Cant\u00e0bria, 55",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 238,
+            "city": "Barcelona",
+            "latitude": "41.425566",
+            "longitude": "2.200693",
+            "name": "Rambla Prim, 256",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 239,
+            "city": "Barcelona",
+            "latitude": "41.414076",
+            "longitude": "2.170838",
+            "name": "Ronda Guinardo, 83",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 240,
+            "city": "Barcelona",
+            "latitude": "41.39472",
+            "longitude": "2.145161",
+            "name": "Amig\u00f3, 23",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 241,
+            "city": "Barcelona",
+            "latitude": "41.373698",
+            "longitude": "2.188927",
+            "name": "Pla\u00e7a del mar, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 242,
+            "city": "Barcelona",
+            "latitude": "41.403384",
+            "longitude": "2.145875",
+            "name": "Gleva, 21",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 243,
+            "city": "Barcelona",
+            "latitude": "41.404038",
+            "longitude": "2.143648",
+            "name": "Carrer de P\u00e1dua, 98",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 244,
+            "city": "Barcelona",
+            "latitude": "41.400977",
+            "longitude": "2.13907",
+            "name": "Santal\u00f3, 165",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 245,
+            "city": "Barcelona",
+            "latitude": "41.397996",
+            "longitude": "2.138717",
+            "name": "Vallmajor, 13",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 246,
+            "city": "Barcelona",
+            "latitude": "41.396938",
+            "longitude": "2.136258",
+            "name": "Reina Victoria, 31",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 247,
+            "city": "Barcelona",
+            "latitude": "41.39493",
+            "longitude": "2.130325",
+            "name": "Alt de Gironella, 13",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 248,
+            "city": "Barcelona",
+            "latitude": "41.406983",
+            "longitude": "2.137742",
+            "name": "Castanyer, 16",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 249,
+            "city": "Barcelona",
+            "latitude": "41.405",
+            "longitude": "2.13453",
+            "name": "Reus, 23",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 250,
+            "city": "Barcelona",
+            "latitude": "41.402449",
+            "longitude": "2.134938",
+            "name": "Artesa de Segre, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 251,
+            "city": "Barcelona",
+            "latitude": "41.402879",
+            "longitude": "2.128541",
+            "name": "Carrer de les Escoles Pies, 99",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 252,
+            "city": "Barcelona",
+            "latitude": "41.376862",
+            "longitude": "2.190773",
+            "name": "Baluart, 58",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 253,
+            "city": "Barcelona",
+            "latitude": "41.400587",
+            "longitude": "2.130658",
+            "name": "Doctor Carulla, 44",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 254,
+            "city": "Barcelona",
+            "latitude": "41.397362",
+            "longitude": "2.127785",
+            "name": "Castellnou, 58",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 255,
+            "city": "Barcelona",
+            "latitude": "41.399822",
+            "longitude": "2.12809",
+            "name": "Doctor Roux, 86",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 256,
+            "city": "Barcelona",
+            "latitude": "41.395632",
+            "longitude": "2.125106",
+            "name": "Passatge de Senillosa, 3",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 257,
+            "city": "Barcelona",
+            "latitude": "41.400722",
+            "longitude": "2.123268",
+            "name": "Via Augusta, 348",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 258,
+            "city": "Barcelona",
+            "latitude": "41.393639",
+            "longitude": "2.123224",
+            "name": "Santa Am\u00e8lia, 25",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 259,
+            "city": "Barcelona",
+            "latitude": "41.395274",
+            "longitude": "2.120973",
+            "name": "Caponata, 10",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 260,
+            "city": "Barcelona",
+            "latitude": "41.398719",
+            "longitude": "2.120422",
+            "name": "Negrevern\u00eds, 20",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 261,
+            "city": "Barcelona",
+            "latitude": "41.397572",
+            "longitude": "2.119506",
+            "name": "Avinguda de J.Foix, 63",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 262,
+            "city": "Barcelona",
+            "latitude": "41.419576",
+            "longitude": "2.197225",
+            "name": "Treball, 264",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 263,
+            "city": "Barcelona",
+            "latitude": "41.387074",
+            "longitude": "2.175247",
+            "name": "Sant Pere M\u00e9s Alt, 4",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 264,
+            "city": "Barcelona",
+            "latitude": "41.436145",
+            "longitude": "2.204634",
+            "name": "Sant Adri\u00e0, 113",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 265,
+            "city": "Barcelona",
+            "latitude": "41.434191",
+            "longitude": "2.205886",
+            "name": "Passeig Enric Sanch\u00eds, 33",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 266,
+            "city": "Barcelona",
+            "latitude": "41.403502",
+            "longitude": "2.193702",
+            "name": "Roc Boronat, 134",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 267,
+            "city": "Barcelona",
+            "latitude": "41.438886",
+            "longitude": "2.199598",
+            "name": "Campana de la Maquinista",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 268,
+            "city": "Barcelona",
+            "latitude": "41.443127",
+            "longitude": "2.199538",
+            "name": "Ciutat d'Asunci\u00f3n, 73",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 269,
+            "city": "Barcelona",
+            "latitude": "41.363093",
+            "longitude": "2.139771",
+            "name": "Pl. Teresa de Claramunt",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 270,
+            "city": "Barcelona",
+            "latitude": "41.360654",
+            "longitude": "2.139132",
+            "name": "Carrer de la Foneria, 33",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 271,
+            "city": "Barcelona",
+            "latitude": "41.358255",
+            "longitude": "2.143401",
+            "name": "Mare de D\u00e9u dels Ports, 235",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 272,
+            "city": "Barcelona",
+            "latitude": "41.357067",
+            "longitude": "2.141563",
+            "name": "Jardins de Can Ferrero",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 273,
+            "city": "Barcelona",
+            "latitude": "41.357338",
+            "longitude": "2.137172",
+            "name": "Carrer de l'Energia, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 274,
+            "city": "Barcelona",
+            "latitude": "41.384232",
+            "longitude": "2.177871",
+            "name": "Ramon Berenguer el Gran, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 275,
+            "city": "Barcelona",
+            "latitude": "41.391833",
+            "longitude": "2.14812",
+            "name": "Villarroel, 208",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 276,
+            "city": "Barcelona",
+            "latitude": "41.362135",
+            "longitude": "2.135637",
+            "name": "Jane Adams, 26",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 277,
+            "city": "Barcelona",
+            "latitude": "41.36335",
+            "longitude": "2.134144",
+            "name": "Radi, 10",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 278,
+            "city": "Barcelona",
+            "latitude": "41.375414",
+            "longitude": "2.123191",
+            "name": "Munn\u00e9, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 279,
+            "city": "Barcelona",
+            "latitude": "41.375671",
+            "longitude": "2.13014",
+            "name": "Rambla del Brasil, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 280,
+            "city": "Barcelona",
+            "latitude": "41.372536",
+            "longitude": "2.129487",
+            "name": "Canalejas, 87",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 281,
+            "city": "Barcelona",
+            "latitude": "41.411067",
+            "longitude": "2.16107",
+            "name": "Balcells, 48",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 282,
+            "city": "Barcelona",
+            "latitude": "41.410538",
+            "longitude": "2.1581",
+            "name": "Cardener, 82",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 283,
+            "city": "Barcelona",
+            "latitude": "41.387225",
+            "longitude": "2.17927",
+            "name": "Gombau, 24",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 284,
+            "city": "Barcelona",
+            "latitude": "41.390021",
+            "longitude": "2.177572",
+            "name": "M\u00e9ndez N\u00fa\u00f1ez, 16",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 285,
+            "city": "Barcelona",
+            "latitude": "41.385151",
+            "longitude": "2.176804",
+            "name": "Catedral, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 286,
+            "city": "Barcelona",
+            "latitude": "41.395213",
+            "longitude": "2.172984",
+            "name": "Bail\u00e9n, 62",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 287,
+            "city": "Barcelona",
+            "latitude": "41.376292",
+            "longitude": "2.178553",
+            "name": "Passeig de Colom",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 288,
+            "city": "Barcelona",
+            "latitude": "41.397006",
+            "longitude": "2.17057",
+            "name": "Bail\u00e9n, 100",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 289,
+            "city": "Barcelona",
+            "latitude": "41.39076",
+            "longitude": "2.1744",
+            "name": "Bruc, 20",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 290,
+            "city": "Barcelona",
+            "latitude": "41.393106",
+            "longitude": "2.163399",
+            "name": "Passeig de Gr\u00e0cia, 61",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 291,
+            "city": "Barcelona",
+            "latitude": "41.387499",
+            "longitude": "2.14702",
+            "name": "Viladomat, 244",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 292,
+            "city": "Barcelona",
+            "latitude": "41.39174",
+            "longitude": "2.142613",
+            "name": "Loreto, 49",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 293,
+            "city": "Barcelona",
+            "latitude": "41.385482",
+            "longitude": "2.138645",
+            "name": "Nicaragua, 96",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 294,
+            "city": "Barcelona",
+            "latitude": "41.396815",
+            "longitude": "2.175714",
+            "name": "Diputaci\u00f3, 350",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 295,
+            "city": "Barcelona",
+            "latitude": "41.400828",
+            "longitude": "2.1786",
+            "name": "Consell de Cent, 513",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 296,
+            "city": "Barcelona",
+            "latitude": "41.381241",
+            "longitude": "2.181838",
+            "name": "Pl. Antonio L\u00f3pez",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 297,
+            "city": "Barcelona",
+            "latitude": "41.403735",
+            "longitude": "2.172987",
+            "name": "Sardenya, 234",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 298,
+            "city": "Barcelona",
+            "latitude": "41.404027",
+            "longitude": "2.181264",
+            "name": "Carrer dels Enamorats, 49",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 299,
+            "city": "Barcelona",
+            "latitude": "41.39999",
+            "longitude": "2.184507",
+            "name": "Padilla, 159",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 300,
+            "city": "Barcelona",
+            "latitude": "41.375073",
+            "longitude": "2.161305",
+            "name": "Av. Paral.lel, 132",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 301,
+            "city": "Barcelona",
+            "latitude": "41.394791",
+            "longitude": "2.161302",
+            "name": "Passeig de Gr\u00e0cia, 89",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 302,
+            "city": "Barcelona",
+            "latitude": "41.372154",
+            "longitude": "2.180701",
+            "name": "World Trade Center",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 303,
+            "city": "Barcelona",
+            "latitude": "41.371663",
+            "longitude": "2.180302",
+            "name": "World Trade Center",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 304,
+            "city": "Barcelona",
+            "latitude": "41.37747",
+            "longitude": "2.183737",
+            "name": "Pl. Ict\u00edneo",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 305,
+            "city": "Barcelona",
+            "latitude": "41.378516",
+            "longitude": "2.176716",
+            "name": "Pl.Joaquim Xira i Palau, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 306,
+            "city": "Barcelona",
+            "latitude": "41.381709",
+            "longitude": "2.177308",
+            "name": "Pl. Sant Miquel, 4",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 307,
+            "city": "Barcelona",
+            "latitude": "41.381129",
+            "longitude": "2.186397",
+            "name": "Pl. Pau Vila",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 308,
+            "city": "Barcelona",
+            "latitude": "41.385463",
+            "longitude": "2.174252",
+            "name": "Duran i Bas, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 309,
+            "city": "Barcelona",
+            "latitude": "41.381607",
+            "longitude": "2.167667",
+            "name": "Agust\u00ed Duran i Sanpere, 10",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 310,
+            "city": "Barcelona",
+            "latitude": "41.403938",
+            "longitude": "2.204188",
+            "name": "Lope de Vega, 79",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 311,
+            "city": "Barcelona",
+            "latitude": "41.380708",
+            "longitude": "2.146793",
+            "name": "Vilamar\u00ed, 85",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 312,
+            "city": "Barcelona",
+            "latitude": "41.387978",
+            "longitude": "2.155266",
+            "name": "Casanova, 119",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 313,
+            "city": "Barcelona",
+            "latitude": "41.375086",
+            "longitude": "2.156848",
+            "name": "Av.Paral.lel, 164",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 314,
+            "city": "Barcelona",
+            "latitude": "41.395796",
+            "longitude": "2.178784",
+            "name": "N\u00e0pols, 125",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 315,
+            "city": "Barcelona",
+            "latitude": "41.380593",
+            "longitude": "2.167418",
+            "name": "Riera Alta, 6",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 316,
+            "city": "Barcelona",
+            "latitude": "41.388133",
+            "longitude": "2.187698",
+            "name": "Recinte Parc de la Ciutadella",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 317,
+            "city": "Barcelona",
+            "latitude": "41.381046",
+            "longitude": "2.186576",
+            "name": "Pl. Pau Vila",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 318,
+            "city": "Barcelona",
+            "latitude": "41.386955",
+            "longitude": "2.18195",
+            "name": "Comer\u00e7, 36",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 319,
+            "city": "Barcelona",
+            "latitude": "41.422873",
+            "longitude": "2.191204",
+            "name": "Sagrera, 74",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 320,
+            "city": "Barcelona",
+            "latitude": "41.390704",
+            "longitude": "2.190543",
+            "name": "Ramon Turr\u00f3, 5",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 321,
+            "city": "Barcelona",
+            "latitude": "41.402177",
+            "longitude": "2.197653",
+            "name": "Llacuna, 86",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 322,
+            "city": "Barcelona",
+            "latitude": "41.386009",
+            "longitude": "2.170212",
+            "name": "Pl. Catalunya, 22",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 323,
+            "city": "Barcelona",
+            "latitude": "41.389028",
+            "longitude": "2.196844",
+            "name": "Joan Mir\u00f3, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 324,
+            "city": "Barcelona",
+            "latitude": "41.388894",
+            "longitude": "2.199334",
+            "name": "Av. Del Litoral, 24",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 325,
+            "city": "Barcelona",
+            "latitude": "41.381011",
+            "longitude": "2.193502",
+            "name": "Passeig Mar\u00edtim de la Barceloneta",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 326,
+            "city": "Barcelona",
+            "latitude": "41.393389",
+            "longitude": "2.181485",
+            "name": "Ribes, 13",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 327,
+            "city": "Barcelona",
+            "latitude": "41.382246",
+            "longitude": "2.186275",
+            "name": "Doctor Aiguader, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 328,
+            "city": "Barcelona",
+            "latitude": "41.370297",
+            "longitude": "2.187808",
+            "name": "Nova Bocana",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 329,
+            "city": "Barcelona",
+            "latitude": "41.381226",
+            "longitude": "2.181888",
+            "name": "Pl. Antonio L\u00f3pez (Via Laietana) annexa a la 37",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 330,
+            "city": "Barcelona",
+            "latitude": "41.380565",
+            "longitude": "2.182119",
+            "name": "Passeig de Colom",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 331,
+            "city": "Barcelona",
+            "latitude": "41.365374",
+            "longitude": "2.133087",
+            "name": "Juan Gris, 28",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 332,
+            "city": "Barcelona",
+            "latitude": "41.385657",
+            "longitude": "2.183349",
+            "name": "Pla\u00e7a Comercial (annexa a l'estaci\u00f3 10)",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 333,
+            "city": "Barcelona",
+            "latitude": "41.386512",
+            "longitude": "2.164597",
+            "name": "Gran Via de Les Corts Catalanes, 592",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 334,
+            "city": "Barcelona",
+            "latitude": "41.388471",
+            "longitude": "2.192835",
+            "name": "Ramon Trias Fargas, 19",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 335,
+            "city": "Barcelona",
+            "latitude": "41.388609",
+            "longitude": "2.19231",
+            "name": "Villena, 11",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 336,
+            "city": "Barcelona",
+            "latitude": "41.392422",
+            "longitude": "2.192417",
+            "name": "Joan d'\u00c0ustria, 50",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 337,
+            "city": "Barcelona",
+            "latitude": "41.379326",
+            "longitude": "2.189906",
+            "name": "Pl. Poeta Bosc\u00e0/Atl\u00e0ntida",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 338,
+            "city": "Barcelona",
+            "latitude": "41.376433",
+            "longitude": "2.17871",
+            "name": "Passeig de Colom, s/n",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 339,
+            "city": "Barcelona",
+            "latitude": "41.389499",
+            "longitude": "2.165387",
+            "name": "Rambla Catalunya, 31 ( Diputaci\u00f3)",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 340,
+            "city": "Barcelona",
+            "latitude": "41.389012",
+            "longitude": "2.172667",
+            "name": "PL. URQUINAONA, 3",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 341,
+            "city": "Barcelona",
+            "latitude": "41.393512",
+            "longitude": "2.170718",
+            "name": "Bruc, 66",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 342,
+            "city": "Barcelona",
+            "latitude": "41.393744",
+            "longitude": "2.176451",
+            "name": "Casp, 67",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 343,
+            "city": "Barcelona",
+            "latitude": "41.379374",
+            "longitude": "2.168921",
+            "name": "Rambla del Raval, 13",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 344,
+            "city": "Barcelona",
+            "latitude": "41.378134",
+            "longitude": "2.16965",
+            "name": "Rambla del Raval, 20",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 345,
+            "city": "Barcelona",
+            "latitude": "41.390943",
+            "longitude": "2.180251",
+            "name": "Passeig de Llu\u00eds Companys ",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 346,
+            "city": "Barcelona",
+            "latitude": "41.391299",
+            "longitude": "2.180828",
+            "name": "Passeig de Llu\u00eds Companys",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 347,
+            "city": "Barcelona",
+            "latitude": "41.404418",
+            "longitude": "2.190379",
+            "name": "Ciutat de Granada, 168",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 348,
+            "city": "Barcelona",
+            "latitude": "41.374213",
+            "longitude": "2.148082",
+            "name": "Gran Via, 361",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 349,
+            "city": "Barcelona",
+            "latitude": "41.377845",
+            "longitude": "2.13923",
+            "name": "Pla\u00e7a de Joan Peir\u00f3",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 350,
+            "city": "Barcelona",
+            "latitude": "41.420201",
+            "longitude": "2.189532",
+            "name": "Carrer d'Hondures, 32",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 351,
+            "city": "Barcelona",
+            "latitude": "41.379632",
+            "longitude": "2.192662",
+            "name": "Passeig Mar\u00edtim de la Barceloneta, devant del 5-7",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 352,
+            "city": "Barcelona",
+            "latitude": "41.37652",
+            "longitude": "2.1749",
+            "name": "Carrer de Cervell\u00f3, 5",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 353,
+            "city": "Barcelona",
+            "latitude": "41.398305",
+            "longitude": "2.183023",
+            "name": "Carrer de Ribes, 59b",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 354,
+            "city": "Barcelona",
+            "latitude": "41.375336",
+            "longitude": "2.168007",
+            "name": "Carrer de Sant Pau, 119/ Ronda Sant Pau",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 355,
+            "city": "Barcelona",
+            "latitude": "41.398389",
+            "longitude": "2.196261",
+            "name": "Carrer Pujades, 103",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 356,
+            "city": "Barcelona",
+            "latitude": "41.404622",
+            "longitude": "2.187159",
+            "name": "Av Meridiana, 70",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 357,
+            "city": "Barcelona",
+            "latitude": "41.402165",
+            "longitude": "2.187136",
+            "name": "Av Meridiana, 66",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 358,
+            "city": "Barcelona",
+            "latitude": "41.392005",
+            "longitude": "2.190426",
+            "name": "Marina , 65",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 359,
+            "city": "Barcelona",
+            "latitude": "41.388359",
+            "longitude": "2.193004",
+            "name": "Ramon trias Fargas, 19",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 360,
+            "city": "Barcelona",
+            "latitude": "41.389076",
+            "longitude": "2.192104",
+            "name": "Ramon Trias Fargas",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 361,
+            "city": "Barcelona",
+            "latitude": "41.395261",
+            "longitude": "2.18708",
+            "name": "Meridiana, 40",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 362,
+            "city": "Barcelona",
+            "latitude": "41.39106",
+            "longitude": "2.196457",
+            "name": "Rosa Sensat en front, 13",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 363,
+            "city": "Barcelona",
+            "latitude": "41.391075",
+            "longitude": "2.180223",
+            "name": "Pg Llu\u00eds Companys, 11",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 364,
+            "city": "Barcelona",
+            "latitude": "41.374947",
+            "longitude": "2.170878",
+            "name": "Paral\u00b7lel, 54",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 365,
+            "city": "Barcelona",
+            "latitude": "41.384054",
+            "longitude": "2.169019",
+            "name": "Pl. Vicen\u00e7 Martorell",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 366,
+            "city": "Barcelona",
+            "latitude": "41.36335",
+            "longitude": "2.134144",
+            "name": "Radi, 11",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 367,
+            "city": "Barcelona",
+            "latitude": "41.404418",
+            "longitude": "2.190379",
+            "name": "Ciutat de Granada, 169",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 368,
+            "city": "Barcelona",
+            "latitude": "41.381766",
+            "longitude": "2.17738",
+            "name": "Pla\u00e7a de Sant Miquel, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 369,
+            "city": "Barcelona",
+            "latitude": "41.385227",
+            "longitude": "2.173878",
+            "name": "Pl. Carles Pi i Sunyer",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 370,
+            "city": "Barcelona",
+            "latitude": "41.377553",
+            "longitude": "2.17074",
+            "name": "Sant Oleguer, 16",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 371,
+            "city": "Barcelona",
+            "latitude": "41.381154",
+            "longitude": "2.173497",
+            "name": "La Rambla, 80",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 372,
+            "city": "Barcelona",
+            "latitude": "41.377011",
+            "longitude": "2.175834",
+            "name": "Portal de Santa Madrona, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 373,
+            "city": "Barcelona",
+            "latitude": "41.376758",
+            "longitude": "2.177093",
+            "name": "La Rambla, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 374,
+            "city": "Barcelona",
+            "latitude": "41.382822",
+            "longitude": "2.167154",
+            "name": "Pla\u00e7a dels \u00c0ngels, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 375,
+            "city": "Barcelona",
+            "latitude": "41.382781",
+            "longitude": "2.167203",
+            "name": "Pla\u00e7a dels \u00c0ngels, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 376,
+            "city": "Barcelona",
+            "latitude": "41.391349",
+            "longitude": "2.18061",
+            "name": "Pg Llu\u00eds Companys, 18",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 377,
+            "city": "Barcelona",
+            "latitude": "41.390349",
+            "longitude": "2.16424",
+            "name": "Rambla Catalunya , 42",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 378,
+            "city": "Barcelona",
+            "latitude": "41.390143",
+            "longitude": "2.164946",
+            "name": "Rambla Catalunya, 47",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 379,
+            "city": "Barcelona",
+            "latitude": "41.387142",
+            "longitude": "2.168858",
+            "name": "Pl. Catalunya , 5",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 380,
+            "city": "Barcelona",
+            "latitude": "41.386439",
+            "longitude": "2.169417",
+            "name": "Pl. Catalunya, 7",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 381,
+            "city": "Barcelona",
+            "latitude": "41.387469",
+            "longitude": "2.169048",
+            "name": "Pl. Catalunya",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 382,
+            "city": "Barcelona",
+            "latitude": "41.387678",
+            "longitude": "2.169587",
+            "name": "Pl. Catalunya",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 383,
+            "city": "Barcelona",
+            "latitude": "41.389097",
+            "longitude": "2.167933",
+            "name": "Gran Via, 509",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 384,
+            "city": "Barcelona",
+            "latitude": "41.385012",
+            "longitude": "2.145843",
+            "name": "Rocafort, 214",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 385,
+            "city": "Barcelona",
+            "latitude": "41.395364",
+            "longitude": "2.157356",
+            "name": "Rambla Catalunya, 133",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 386,
+            "city": "Barcelona",
+            "latitude": "41.386814",
+            "longitude": "2.195689",
+            "name": "Avda. Litoral",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 387,
+            "city": "Barcelona",
+            "latitude": "41.388856",
+            "longitude": "2.183251",
+            "name": "Pg Llu\u00eds Companys, 1",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 388,
+            "city": "Barcelona",
+            "latitude": "41.381328",
+            "longitude": "2.161786",
+            "name": "Villarroel, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 389,
+            "city": "Barcelona",
+            "latitude": "41.381931",
+            "longitude": "2.162969",
+            "name": "Floridablanca , 145",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 390,
+            "city": "Barcelona",
+            "latitude": "41.393173",
+            "longitude": "2.157081",
+            "name": "Rossell\u00f3, 217",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 391,
+            "city": "Barcelona",
+            "latitude": "41.392846",
+            "longitude": "2.155788",
+            "name": "Enric Granados, 99",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 392,
+            "city": "Barcelona",
+            "latitude": "41.389391",
+            "longitude": "2.143102",
+            "name": "Josep Tarradellas, 129",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 393,
+            "city": "Barcelona",
+            "latitude": "41.385081",
+            "longitude": "2.142868",
+            "name": "Josep Tarradellas, 58",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 394,
+            "city": "Barcelona",
+            "latitude": "41.391751",
+            "longitude": "2.153123",
+            "name": "CORSEGA, 216",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 395,
+            "city": "Barcelona",
+            "latitude": "41.385598",
+            "longitude": "2.16338",
+            "name": "Pl. Universitat",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 396,
+            "city": "Barcelona",
+            "latitude": "41.385736",
+            "longitude": "2.163577",
+            "name": "Pl. Universitat",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 397,
+            "city": "Barcelona",
+            "latitude": "41.389088",
+            "longitude": "2.183568",
+            "name": "Passeig llu\u00eds companys, 2",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 398,
+            "city": "Barcelona",
+            "latitude": "41.389687",
+            "longitude": "2.159999",
+            "name": "Enric Granados, 35",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 399,
+            "city": "Barcelona",
+            "latitude": "41.378915",
+            "longitude": "2.149174",
+            "name": "Vilamar\u00ed davant, 61",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 400,
+            "city": "Barcelona",
+            "latitude": "41.379016",
+            "longitude": "2.153799",
+            "name": "Rocafort, 72",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 401,
+            "city": "Barcelona",
+            "latitude": "41.384075",
+            "longitude": "2.153654",
+            "name": "Compte Borrell, 177",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 402,
+            "city": "Barcelona",
+            "latitude": "41.383374",
+            "longitude": "2.157577",
+            "name": "Diputaci\u00f3, 152",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 403,
+            "city": "Barcelona",
+            "latitude": "41.375076",
+            "longitude": "2.159046",
+            "name": "Paral\u00b7lel, 146",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 404,
+            "city": "Barcelona",
+            "latitude": "41.375064",
+            "longitude": "2.16364",
+            "name": "Paral\u00b7lel, 114",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 405,
+            "city": "Barcelona",
+            "latitude": "41.383156",
+            "longitude": "2.148506",
+            "name": "Mallorca, 41",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 406,
+            "city": "Barcelona",
+            "latitude": "41.393547",
+            "longitude": "2.150764",
+            "name": "Londres, 101",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 407,
+            "city": "Barcelona",
+            "latitude": "41.387953",
+            "longitude": "2.150169",
+            "name": "Rossell\u00f3, 101",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 408,
+            "city": "Barcelona",
+            "latitude": "41.385031",
+            "longitude": "2.185249",
+            "name": "Marqu\u00e8s de l'Argentera, 17",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 409,
+            "city": "Barcelona",
+            "latitude": "41.38834",
+            "longitude": "2.150825",
+            "name": "Rossell\u00f3, 108",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 410,
+            "city": "Barcelona",
+            "latitude": "41.380452",
+            "longitude": "2.158403",
+            "name": "Comte Borrell, 119",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 411,
+            "city": "Barcelona",
+            "latitude": "41.39386",
+            "longitude": "2.160237",
+            "name": "Proven\u00e7a, 241",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 412,
+            "city": "Barcelona",
+            "latitude": "41.375454",
+            "longitude": "2.149786",
+            "name": "Gran Via, 375",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 413,
+            "city": "Barcelona",
+            "latitude": "41.375619",
+            "longitude": "2.149889",
+            "name": "Gran Via, 375",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 414,
+            "city": "Barcelona",
+            "latitude": "41.376428",
+            "longitude": "2.147734",
+            "name": "Tarragona, 103",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 415,
+            "city": "Barcelona",
+            "latitude": "41.374152",
+            "longitude": "2.148154",
+            "name": "Gran Via, 361",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 416,
+            "city": "Barcelona",
+            "latitude": "41.378124",
+            "longitude": "2.145389",
+            "name": "Tarragona, 141",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 417,
+            "city": "Barcelona",
+            "latitude": "41.380658",
+            "longitude": "2.141697",
+            "name": "Viriat, 45",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        },
+        {
+            "id": 418,
+            "city": "Barcelona",
+            "latitude": "41.380632",
+            "longitude": "2.141548",
+            "name": "Viriat, 53",
+            "total_bases": 0,
+            "dock_bikes": 0,
+            "free_bases": 0
+        }
+    ]
+}
