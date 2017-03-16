@@ -1,0 +1,1724 @@
+{
+    "stations": [
+        {
+            "id": 1,
+            "city": "Madrid",
+            "latitude": "40.4168961",
+            "longitude": "-3.7024255",
+            "name": "Puerta del Sol A",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 14
+        },
+        {
+            "id": 2,
+            "city": "Madrid",
+            "latitude": "40.4170009",
+            "longitude": "-3.7024207",
+            "name": "Puerta del Sol B",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 12
+        },
+        {
+            "id": 3,
+            "city": "Madrid",
+            "latitude": "40.4205886",
+            "longitude": "-3.7058415",
+            "name": "Miguel Moya",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 17
+        },
+        {
+            "id": 4,
+            "city": "Madrid",
+            "latitude": "40.4302937",
+            "longitude": "-3.7069171",
+            "name": "Plaza Conde Suchil",
+            "total_bases": 18,
+            "dock_bikes": 10,
+            "free_bases": 7
+        },
+        {
+            "id": 5,
+            "city": "Madrid",
+            "latitude": "40.4285524",
+            "longitude": "-3.7025875",
+            "name": "Malasa\u00f1a",
+            "total_bases": 24,
+            "dock_bikes": 1,
+            "free_bases": 20
+        },
+        {
+            "id": 6,
+            "city": "Madrid",
+            "latitude": "40.4285280",
+            "longitude": "-3.7020599",
+            "name": "Fuencarral",
+            "total_bases": 27,
+            "dock_bikes": 9,
+            "free_bases": 18
+        },
+        {
+            "id": 7,
+            "city": "Madrid",
+            "latitude": "40.4241480",
+            "longitude": "-3.6984470",
+            "name": "Colegio Arquitectos",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 12
+        },
+        {
+            "id": 8,
+            "city": "Madrid",
+            "latitude": "40.4251906",
+            "longitude": "-3.6977715",
+            "name": "Hortaleza",
+            "total_bases": 21,
+            "dock_bikes": 4,
+            "free_bases": 13
+        },
+        {
+            "id": 9,
+            "city": "Madrid",
+            "latitude": "40.4278682",
+            "longitude": "-3.6954403",
+            "name": "Alonso Mart\u00ednez",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 10
+        },
+        {
+            "id": 10,
+            "city": "Madrid",
+            "latitude": "40.4156057",
+            "longitude": "-3.7095084",
+            "name": "Plaza de San Miguel",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 15
+        },
+        {
+            "id": 11,
+            "city": "Madrid",
+            "latitude": "40.4250863",
+            "longitude": "-3.6918807",
+            "name": "Marqu\u00e9s de la Ensenada",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 13
+        },
+        {
+            "id": 12,
+            "city": "Madrid",
+            "latitude": "40.4269483",
+            "longitude": "-3.7035918",
+            "name": "San Andr\u00e9s",
+            "total_bases": 24,
+            "dock_bikes": 0,
+            "free_bases": 24
+        },
+        {
+            "id": 13,
+            "city": "Madrid",
+            "latitude": "40.4284246",
+            "longitude": "-3.7061931",
+            "name": "San Hermenegildo",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 13
+        },
+        {
+            "id": 14,
+            "city": "Madrid",
+            "latitude": "40.4273264",
+            "longitude": "-3.7104417",
+            "name": "Conde Duque",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 13
+        },
+        {
+            "id": 15,
+            "city": "Madrid",
+            "latitude": "40.4260957",
+            "longitude": "-3.7134790",
+            "name": "Ventura Rodr\u00edguez",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 14
+        },
+        {
+            "id": 16,
+            "city": "Madrid",
+            "latitude": "40.4261649",
+            "longitude": "-3.7073764",
+            "name": "San Vicente Ferrer",
+            "total_bases": 21,
+            "dock_bikes": 2,
+            "free_bases": 19
+        },
+        {
+            "id": 17,
+            "city": "Madrid",
+            "latitude": "40.4230721",
+            "longitude": "-3.7075065",
+            "name": "San Bernardo",
+            "total_bases": 21,
+            "dock_bikes": 9,
+            "free_bases": 11
+        },
+        {
+            "id": 18,
+            "city": "Madrid",
+            "latitude": "40.4232649",
+            "longitude": "-3.7038312",
+            "name": "Carlos Cambronero",
+            "total_bases": 24,
+            "dock_bikes": 1,
+            "free_bases": 21
+        },
+        {
+            "id": 19,
+            "city": "Madrid",
+            "latitude": "40.4207773",
+            "longitude": "-3.6996502",
+            "name": "Plaza de Pedro Zerolo",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 14
+        },
+        {
+            "id": 20,
+            "city": "Madrid",
+            "latitude": "40.4218616",
+            "longitude": "-3.6954983",
+            "name": "Prim",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 15
+        },
+        {
+            "id": 21,
+            "city": "Madrid",
+            "latitude": "40.4192342",
+            "longitude": "-3.6954615",
+            "name": "Banco de Espa\u00f1a A",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 20
+        },
+        {
+            "id": 22,
+            "city": "Madrid",
+            "latitude": "40.4192722",
+            "longitude": "-3.6951760",
+            "name": "Banco de Espa\u00f1a B",
+            "total_bases": 24,
+            "dock_bikes": 15,
+            "free_bases": 9
+        },
+        {
+            "id": 23,
+            "city": "Madrid",
+            "latitude": "40.4197872",
+            "longitude": "-3.7014814",
+            "name": "Red de San Luis A",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 11
+        },
+        {
+            "id": 24,
+            "city": "Madrid",
+            "latitude": "40.4197204",
+            "longitude": "-3.7015235",
+            "name": "Red de San Luis B",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 7
+        },
+        {
+            "id": 25,
+            "city": "Madrid",
+            "latitude": "40.4200783",
+            "longitude": "-3.7065376",
+            "name": "Jacometrezo",
+            "total_bases": 24,
+            "dock_bikes": 19,
+            "free_bases": 5
+        },
+        {
+            "id": 26,
+            "city": "Madrid",
+            "latitude": "40.4197429",
+            "longitude": "-3.7080733",
+            "name": "Santo Domingo",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 13
+        },
+        {
+            "id": 27,
+            "city": "Madrid",
+            "latitude": "40.4182146",
+            "longitude": "-3.7103538",
+            "name": "Palacio de Oriente",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 14
+        },
+        {
+            "id": 28,
+            "city": "Madrid",
+            "latitude": "40.4173114",
+            "longitude": "-3.7064809",
+            "name": "Plaza de Celenque A",
+            "total_bases": 24,
+            "dock_bikes": 16,
+            "free_bases": 8
+        },
+        {
+            "id": 29,
+            "city": "Madrid",
+            "latitude": "40.4172781",
+            "longitude": "-3.7063837",
+            "name": "Plaza de Celenque B",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 30,
+            "city": "Madrid",
+            "latitude": "40.4235117",
+            "longitude": "-3.6930040",
+            "name": "B\u00e1rbara de Braganza",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 9
+        },
+        {
+            "id": 31,
+            "city": "Madrid",
+            "latitude": "40.4132798",
+            "longitude": "-3.6956178",
+            "name": "Huertas",
+            "total_bases": 24,
+            "dock_bikes": 2,
+            "free_bases": 18
+        },
+        {
+            "id": 32,
+            "city": "Madrid",
+            "latitude": "40.4181663",
+            "longitude": "-3.6992600",
+            "name": "Sevilla",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 15
+        },
+        {
+            "id": 33,
+            "city": "Madrid",
+            "latitude": "40.4162619",
+            "longitude": "-3.6957355",
+            "name": "Marqu\u00e9s de Cubas",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 18
+        },
+        {
+            "id": 34,
+            "city": "Madrid",
+            "latitude": "40.4192095",
+            "longitude": "-3.7115040",
+            "name": "San Quint\u00edn",
+            "total_bases": 27,
+            "dock_bikes": 5,
+            "free_bases": 22
+        },
+        {
+            "id": 35,
+            "city": "Madrid",
+            "latitude": "40.4163638",
+            "longitude": "-3.7068969",
+            "name": "Calle Mayor",
+            "total_bases": 27,
+            "dock_bikes": 7,
+            "free_bases": 19
+        },
+        {
+            "id": 36,
+            "city": "Madrid",
+            "latitude": "40.4150099",
+            "longitude": "-3.7061032",
+            "name": "Plaza de la Provincia",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 14
+        },
+        {
+            "id": 37,
+            "city": "Madrid",
+            "latitude": "40.4157138",
+            "longitude": "-3.7031808",
+            "name": "Carretas",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 16
+        },
+        {
+            "id": 38,
+            "city": "Madrid",
+            "latitude": "40.4146755",
+            "longitude": "-3.7036825",
+            "name": "Jacinto Benavente",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 15
+        },
+        {
+            "id": 39,
+            "city": "Madrid",
+            "latitude": "40.4141931",
+            "longitude": "-3.7103285",
+            "name": "Plaza del Cord\u00f3n",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 19
+        },
+        {
+            "id": 40,
+            "city": "Madrid",
+            "latitude": "40.4167281",
+            "longitude": "-3.7124038",
+            "name": "Plaza de Ramales",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 15
+        },
+        {
+            "id": 41,
+            "city": "Madrid",
+            "latitude": "40.4108442",
+            "longitude": "-3.7144964",
+            "name": "Plaza San Francisco",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 9
+        },
+        {
+            "id": 42,
+            "city": "Madrid",
+            "latitude": "40.4110406",
+            "longitude": "-3.7120734",
+            "name": "Plaza de los Carros",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 18
+        },
+        {
+            "id": 43,
+            "city": "Madrid",
+            "latitude": "40.4112744",
+            "longitude": "-3.7088337",
+            "name": "Plaza de la Cebada",
+            "total_bases": 27,
+            "dock_bikes": 2,
+            "free_bases": 23
+        },
+        {
+            "id": 44,
+            "city": "Madrid",
+            "latitude": "40.4138846",
+            "longitude": "-3.7049407",
+            "name": "Conde de Romanones",
+            "total_bases": 24,
+            "dock_bikes": 2,
+            "free_bases": 22
+        },
+        {
+            "id": 45,
+            "city": "Madrid",
+            "latitude": "40.4122047",
+            "longitude": "-3.6991147",
+            "name": "Ant\u00f3n Mart\u00edn",
+            "total_bases": 21,
+            "dock_bikes": 4,
+            "free_bases": 16
+        },
+        {
+            "id": 46,
+            "city": "Madrid",
+            "latitude": "40.4107085",
+            "longitude": "-3.6982318",
+            "name": "Santa Isabel",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 16
+        },
+        {
+            "id": 47,
+            "city": "Madrid",
+            "latitude": "40.4101564",
+            "longitude": "-3.7025024",
+            "name": "Jes\u00fas y Mar\u00eda",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 14
+        },
+        {
+            "id": 48,
+            "city": "Madrid",
+            "latitude": "40.4097617",
+            "longitude": "-3.7040666",
+            "name": "Cabestreros",
+            "total_bases": 21,
+            "dock_bikes": 7,
+            "free_bases": 14
+        },
+        {
+            "id": 49,
+            "city": "Madrid",
+            "latitude": "40.4070358",
+            "longitude": "-3.7110513",
+            "name": "Puerta de Toledo",
+            "total_bases": 21,
+            "dock_bikes": 15,
+            "free_bases": 6
+        },
+        {
+            "id": 50,
+            "city": "Madrid",
+            "latitude": "40.4053153",
+            "longitude": "-3.7071259",
+            "name": "Ribera de Curtidores",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 16
+        },
+        {
+            "id": 51,
+            "city": "Madrid",
+            "latitude": "40.4047851",
+            "longitude": "-3.7028265",
+            "name": "Embajadores 1",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 15
+        },
+        {
+            "id": 52,
+            "city": "Madrid",
+            "latitude": "40.4056107",
+            "longitude": "-3.7022591",
+            "name": "Embajadores 2",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 17
+        },
+        {
+            "id": 53,
+            "city": "Madrid",
+            "latitude": "40.4060941",
+            "longitude": "-3.6992759",
+            "name": "Casa Encendida",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 18
+        },
+        {
+            "id": 54,
+            "city": "Madrid",
+            "latitude": "40.4083684",
+            "longitude": "-3.6933463",
+            "name": "Museo Reina Sof\u00eda",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 14
+        },
+        {
+            "id": 55,
+            "city": "Madrid",
+            "latitude": "40.4075606",
+            "longitude": "-3.6935205",
+            "name": "Ronda de Atocha",
+            "total_bases": 27,
+            "dock_bikes": 9,
+            "free_bases": 17
+        },
+        {
+            "id": 56,
+            "city": "Madrid",
+            "latitude": "40.4144226",
+            "longitude": "-3.7007164",
+            "name": "Plaza de Santa Ana",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 18
+        },
+        {
+            "id": 57,
+            "city": "Madrid",
+            "latitude": "40.4089282",
+            "longitude": "-3.7008803",
+            "name": "Plaza de Lavapi\u00e9s",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 18
+        },
+        {
+            "id": 58,
+            "city": "Madrid",
+            "latitude": "40.4266828",
+            "longitude": "-3.7004230",
+            "name": "Barcel\u00f3",
+            "total_bases": 21,
+            "dock_bikes": 4,
+            "free_bases": 17
+        },
+        {
+            "id": 59,
+            "city": "Madrid",
+            "latitude": "40.4239757",
+            "longitude": "-3.7020842",
+            "name": "Plaza de San Ildefonso",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 16
+        },
+        {
+            "id": 60,
+            "city": "Madrid",
+            "latitude": "40.4184192",
+            "longitude": "-3.7032414",
+            "name": "Plaza del Carmen ",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 12
+        },
+        {
+            "id": 61,
+            "city": "Madrid",
+            "latitude": "40.4295658",
+            "longitude": "-3.7126299",
+            "name": "Santa Cruz del Marcenado",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 19
+        },
+        {
+            "id": 62,
+            "city": "Madrid",
+            "latitude": "40.4222862",
+            "longitude": "-3.6978950",
+            "name": "Augusto Figueroa",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 16
+        },
+        {
+            "id": 63,
+            "city": "Madrid",
+            "latitude": "40.4255495",
+            "longitude": "-3.7043418",
+            "name": "Plaza de Juan Pujol",
+            "total_bases": 21,
+            "dock_bikes": 5,
+            "free_bases": 15
+        },
+        {
+            "id": 64,
+            "city": "Madrid",
+            "latitude": "40.4197520",
+            "longitude": "-3.6883980",
+            "name": "Plaza de la Independencia",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 17
+        },
+        {
+            "id": 65,
+            "city": "Madrid",
+            "latitude": "40.4213983",
+            "longitude": "-3.6752045",
+            "name": "Narv\u00e1ez",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 15
+        },
+        {
+            "id": 66,
+            "city": "Madrid",
+            "latitude": "40.4213148",
+            "longitude": "-3.6724968",
+            "name": "O'Donnell",
+            "total_bases": 24,
+            "dock_bikes": 2,
+            "free_bases": 21
+        },
+        {
+            "id": 67,
+            "city": "Madrid",
+            "latitude": "40.4179237",
+            "longitude": "-3.6708959",
+            "name": "Ibiza",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 68,
+            "city": "Madrid",
+            "latitude": "40.4165605",
+            "longitude": "-3.6904525",
+            "name": "Antonio Maura",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 17
+        },
+        {
+            "id": 69,
+            "city": "Madrid",
+            "latitude": "40.4108472",
+            "longitude": "-3.6932250",
+            "name": "Almad\u00e9n",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 12
+        },
+        {
+            "id": 70,
+            "city": "Madrid",
+            "latitude": "40.4128372",
+            "longitude": "-3.6912023",
+            "name": "Espalter",
+            "total_bases": 21,
+            "dock_bikes": 8,
+            "free_bases": 10
+        },
+        {
+            "id": 71,
+            "city": "Madrid",
+            "latitude": "40.4098080",
+            "longitude": "-3.6888220",
+            "name": "Puerta del \u00c1ngel Ca\u00eddo",
+            "total_bases": 27,
+            "dock_bikes": 14,
+            "free_bases": 13
+        },
+        {
+            "id": 72,
+            "city": "Madrid",
+            "latitude": "40.4153053",
+            "longitude": "-3.6779232",
+            "name": "Puerta del Doce de Octubre",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 11
+        },
+        {
+            "id": 73,
+            "city": "Madrid",
+            "latitude": "40.4159569",
+            "longitude": "-3.6738865",
+            "name": "Doce de Octubre",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 15
+        },
+        {
+            "id": 74,
+            "city": "Madrid",
+            "latitude": "40.4157413",
+            "longitude": "-3.6691838",
+            "name": "Sainz de Baranda",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 9
+        },
+        {
+            "id": 75,
+            "city": "Madrid",
+            "latitude": "40.4114475",
+            "longitude": "-3.6689089",
+            "name": "Plaza de los Astros",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 12
+        },
+        {
+            "id": 76,
+            "city": "Madrid",
+            "latitude": "40.4117627",
+            "longitude": "-3.6766813",
+            "name": "Puerta del Pac\u00edfico ",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 16
+        },
+        {
+            "id": 77,
+            "city": "Madrid",
+            "latitude": "40.4082805",
+            "longitude": "-3.6784838",
+            "name": "Men\u00e9ndez Pelayo",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 12
+        },
+        {
+            "id": 78,
+            "city": "Madrid",
+            "latitude": "40.4076726",
+            "longitude": "-3.6750121",
+            "name": "Puerta de Mariano de Cavia",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 10
+        },
+        {
+            "id": 79,
+            "city": "Madrid",
+            "latitude": "40.4063500",
+            "longitude": "-3.6704220",
+            "name": "Conde de Casal",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 19
+        },
+        {
+            "id": 80,
+            "city": "Madrid",
+            "latitude": "40.4009101",
+            "longitude": "-3.6744804",
+            "name": "Pedro Bosch",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 10
+        },
+        {
+            "id": 81,
+            "city": "Madrid",
+            "latitude": "40.4051451",
+            "longitude": "-3.6803874",
+            "name": "Puerta de Granada",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 12
+        },
+        {
+            "id": 82,
+            "city": "Madrid",
+            "latitude": "40.4075685",
+            "longitude": "-3.6902255",
+            "name": "Atocha A",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 13
+        },
+        {
+            "id": 83,
+            "city": "Madrid",
+            "latitude": "40.4074902",
+            "longitude": "-3.6901234",
+            "name": "Atocha B",
+            "total_bases": 27,
+            "dock_bikes": 11,
+            "free_bases": 16
+        },
+        {
+            "id": 84,
+            "city": "Madrid",
+            "latitude": "40.4092970",
+            "longitude": "-3.6919870",
+            "name": "Cuesta de Moyano",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 13
+        },
+        {
+            "id": 85,
+            "city": "Madrid",
+            "latitude": "40.4084556",
+            "longitude": "-3.6697526",
+            "name": "Ni\u00f1o Jes\u00fas",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 11
+        },
+        {
+            "id": 86,
+            "city": "Madrid",
+            "latitude": "40.4130243",
+            "longitude": "-3.6751105",
+            "name": "P\u00edo Baroja",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 19
+        },
+        {
+            "id": 87,
+            "city": "Madrid",
+            "latitude": "40.4032501",
+            "longitude": "-3.6726019",
+            "name": "Valderribas",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 88,
+            "city": "Madrid",
+            "latitude": "40.4215010",
+            "longitude": "-3.6800080",
+            "name": "Puerta de Madrid",
+            "total_bases": 24,
+            "dock_bikes": 17,
+            "free_bases": 5
+        },
+        {
+            "id": 89,
+            "city": "Madrid",
+            "latitude": "40.4186148",
+            "longitude": "-3.6926217",
+            "name": "Cibeles",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 4
+        },
+        {
+            "id": 90,
+            "city": "Madrid",
+            "latitude": "40.4277360",
+            "longitude": "-3.6832566",
+            "name": "Ayala",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 11
+        },
+        {
+            "id": 91,
+            "city": "Madrid",
+            "latitude": "40.4313576",
+            "longitude": "-3.6838303",
+            "name": "Embajada de Italia",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 13
+        },
+        {
+            "id": 92,
+            "city": "Madrid",
+            "latitude": "40.4272582",
+            "longitude": "-3.6752024",
+            "name": "Conde Pe\u00f1alver",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 12
+        },
+        {
+            "id": 93,
+            "city": "Madrid",
+            "latitude": "40.4250361",
+            "longitude": "-3.6837876",
+            "name": "General Pardi\u00f1as",
+            "total_bases": 27,
+            "dock_bikes": 14,
+            "free_bases": 11
+        },
+        {
+            "id": 94,
+            "city": "Madrid",
+            "latitude": "40.4261340",
+            "longitude": "-3.6787441",
+            "name": "Pr\u00edncipe de Vergara",
+            "total_bases": 24,
+            "dock_bikes": 1,
+            "free_bases": 18
+        },
+        {
+            "id": 95,
+            "city": "Madrid",
+            "latitude": "40.4262945",
+            "longitude": "-3.6865463",
+            "name": "Claudio Coello",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 16
+        },
+        {
+            "id": 96,
+            "city": "Madrid",
+            "latitude": "40.4257046",
+            "longitude": "-3.6893698",
+            "name": "Plaza de Col\u00f3n",
+            "total_bases": 24,
+            "dock_bikes": 15,
+            "free_bases": 8
+        },
+        {
+            "id": 97,
+            "city": "Madrid",
+            "latitude": "40.4226990",
+            "longitude": "-3.6909648",
+            "name": "Biblioteca Nacional",
+            "total_bases": 21,
+            "dock_bikes": 6,
+            "free_bases": 15
+        },
+        {
+            "id": 98,
+            "city": "Madrid",
+            "latitude": "40.4226584",
+            "longitude": "-3.6870548",
+            "name": "Villanueva",
+            "total_bases": 24,
+            "dock_bikes": 19,
+            "free_bases": 4
+        },
+        {
+            "id": 99,
+            "city": "Madrid",
+            "latitude": "40.4220640",
+            "longitude": "-3.6821793",
+            "name": "Castell\u00f3",
+            "total_bases": 27,
+            "dock_bikes": 9,
+            "free_bases": 16
+        },
+        {
+            "id": 100,
+            "city": "Madrid",
+            "latitude": "40.4226906",
+            "longitude": "-3.6801307",
+            "name": "Alcal\u00e1",
+            "total_bases": 27,
+            "dock_bikes": 16,
+            "free_bases": 9
+        },
+        {
+            "id": 101,
+            "city": "Madrid",
+            "latitude": "40.4242625",
+            "longitude": "-3.6753567",
+            "name": "Plaza de Felipe II",
+            "total_bases": 24,
+            "dock_bikes": 15,
+            "free_bases": 9
+        },
+        {
+            "id": 102,
+            "city": "Madrid",
+            "latitude": "40.4261851",
+            "longitude": "-3.6738714",
+            "name": "Alc\u00e1ntara",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 21
+        },
+        {
+            "id": 103,
+            "city": "Madrid",
+            "latitude": "40.4248457",
+            "longitude": "-3.6738635",
+            "name": "Palacio de Deportes",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 14
+        },
+        {
+            "id": 104,
+            "city": "Madrid",
+            "latitude": "40.4231526",
+            "longitude": "-3.6691523",
+            "name": "Jorge Juan",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 20
+        },
+        {
+            "id": 105,
+            "city": "Madrid",
+            "latitude": "40.4211802",
+            "longitude": "-3.6840229",
+            "name": "Vel\u00e1zquez",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 14
+        },
+        {
+            "id": 106,
+            "city": "Madrid",
+            "latitude": "40.4303057",
+            "longitude": "-3.6865654",
+            "name": "Ortega y Gasset",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 8
+        },
+        {
+            "id": 107,
+            "city": "Madrid",
+            "latitude": "40.4268331",
+            "longitude": "-3.6895336",
+            "name": "Castellana",
+            "total_bases": 21,
+            "dock_bikes": 12,
+            "free_bases": 7
+        },
+        {
+            "id": 108,
+            "city": "Madrid",
+            "latitude": "40.4267905",
+            "longitude": "-3.6873922",
+            "name": "Serrano",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 10
+        },
+        {
+            "id": 109,
+            "city": "Madrid",
+            "latitude": "40.4251002",
+            "longitude": "-3.6877227",
+            "name": "Col\u00f3n A",
+            "total_bases": 18,
+            "dock_bikes": 12,
+            "free_bases": 5
+        },
+        {
+            "id": 110,
+            "city": "Madrid",
+            "latitude": "40.4249630",
+            "longitude": "-3.6877450",
+            "name": "Col\u00f3n B",
+            "total_bases": 18,
+            "dock_bikes": 13,
+            "free_bases": 5
+        },
+        {
+            "id": 111,
+            "city": "Madrid",
+            "latitude": "40.4215246",
+            "longitude": "-3.6884369",
+            "name": "Columela",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 11
+        },
+        {
+            "id": 112,
+            "city": "Madrid",
+            "latitude": "40.4273005",
+            "longitude": "-3.6706024",
+            "name": "M\u00e1rtires Concepcionistas",
+            "total_bases": 27,
+            "dock_bikes": 13,
+            "free_bases": 13
+        },
+        {
+            "id": 113,
+            "city": "Madrid",
+            "latitude": "40.4300481",
+            "longitude": "-3.6816402",
+            "name": "Marqu\u00e9s de Salamanca",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 15
+        },
+        {
+            "id": 114,
+            "city": "Madrid",
+            "latitude": "40.4344969",
+            "longitude": "-3.7206893",
+            "name": "Moncloa",
+            "total_bases": 24,
+            "dock_bikes": 16,
+            "free_bases": 8
+        },
+        {
+            "id": 115,
+            "city": "Madrid",
+            "latitude": "40.4337322",
+            "longitude": "-3.7175435",
+            "name": "Arcipreste de Hita A",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 13
+        },
+        {
+            "id": 116,
+            "city": "Madrid",
+            "latitude": "40.4337036",
+            "longitude": "-3.7175115",
+            "name": "Arcipreste de Hita B",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 19
+        },
+        {
+            "id": 117,
+            "city": "Madrid",
+            "latitude": "40.4325991",
+            "longitude": "-3.7246532",
+            "name": "Paseo de Moret",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 12
+        },
+        {
+            "id": 118,
+            "city": "Madrid",
+            "latitude": "40.4276570",
+            "longitude": "-3.7205129",
+            "name": "Pintor Rosales",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 13
+        },
+        {
+            "id": 119,
+            "city": "Madrid",
+            "latitude": "40.4277456",
+            "longitude": "-3.7174158",
+            "name": "Quintana",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 19
+        },
+        {
+            "id": 120,
+            "city": "Madrid",
+            "latitude": "40.4253944",
+            "longitude": "-3.7170448",
+            "name": "Ferraz",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 20
+        },
+        {
+            "id": 121,
+            "city": "Madrid",
+            "latitude": "40.4240200",
+            "longitude": "-3.7116030",
+            "name": "Plaza de Espa\u00f1a A",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 122,
+            "city": "Madrid",
+            "latitude": "40.4241200",
+            "longitude": "-3.7117030",
+            "name": "Plaza de Espa\u00f1a B",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 123,
+            "city": "Madrid",
+            "latitude": "40.4309797",
+            "longitude": "-3.7188898",
+            "name": "Altamirano",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 11
+        },
+        {
+            "id": 124,
+            "city": "Madrid",
+            "latitude": "40.4007810",
+            "longitude": "-3.6882407",
+            "name": "Juan Mart\u00edn",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 15
+        },
+        {
+            "id": 125,
+            "city": "Madrid",
+            "latitude": "40.4013216",
+            "longitude": "-3.6863218",
+            "name": "M\u00e9ndez \u00c1lvaro",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 20
+        },
+        {
+            "id": 126,
+            "city": "Madrid",
+            "latitude": "40.4032208",
+            "longitude": "-3.6944768",
+            "name": "Palos de la Frontera",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 8
+        },
+        {
+            "id": 127,
+            "city": "Madrid",
+            "latitude": "40.4017926",
+            "longitude": "-3.6987665",
+            "name": "Santa Mar\u00eda de la Cabeza",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 10
+        },
+        {
+            "id": 128,
+            "city": "Madrid",
+            "latitude": "40.4295863",
+            "longitude": "-3.6963983",
+            "name": "Santa Engracia 14",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 18
+        },
+        {
+            "id": 129,
+            "city": "Madrid",
+            "latitude": "40.4306458",
+            "longitude": "-3.7133412",
+            "name": "Guzm\u00e1n el Bueno",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 13
+        },
+        {
+            "id": 130,
+            "city": "Madrid",
+            "latitude": "40.4309524",
+            "longitude": "-3.6993465",
+            "name": "Manuel Silvela",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 14
+        },
+        {
+            "id": 131,
+            "city": "Madrid",
+            "latitude": "40.4352850",
+            "longitude": "-3.6948626",
+            "name": "General Mart\u00ednez Campos ",
+            "total_bases": 24,
+            "dock_bikes": 1,
+            "free_bases": 23
+        },
+        {
+            "id": 132,
+            "city": "Madrid",
+            "latitude": "40.4344731",
+            "longitude": "-3.7015686",
+            "name": "General \u00c1lvarez de Castro",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 13
+        },
+        {
+            "id": 133,
+            "city": "Madrid",
+            "latitude": "40.4338516",
+            "longitude": "-3.7084390",
+            "name": "Fernando el Cat\u00f3lico",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 11
+        },
+        {
+            "id": 134,
+            "city": "Madrid",
+            "latitude": "40.4389940",
+            "longitude": "-3.7154329",
+            "name": "Cea Berm\u00fadez",
+            "total_bases": 24,
+            "dock_bikes": 15,
+            "free_bases": 9
+        },
+        {
+            "id": 135,
+            "city": "Madrid",
+            "latitude": "40.4385316",
+            "longitude": "-3.6982209",
+            "name": "Jos\u00e9 Abascal",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 11
+        },
+        {
+            "id": 136,
+            "city": "Madrid",
+            "latitude": "40.4413860",
+            "longitude": "-3.7016321",
+            "name": "Santa Engracia 127",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 16
+        },
+        {
+            "id": 137,
+            "city": "Madrid",
+            "latitude": "40.4412115",
+            "longitude": "-3.7039582",
+            "name": "Bravo Murillo 44",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 138,
+            "city": "Madrid",
+            "latitude": "40.4463667",
+            "longitude": "-3.7036675",
+            "name": "Glorieta de los Cuatro Caminos",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 9
+        },
+        {
+            "id": 139,
+            "city": "Madrid",
+            "latitude": "40.4471250",
+            "longitude": "-3.7001669",
+            "name": "Raimundo Fern\u00e1ndez",
+            "total_bases": 24,
+            "dock_bikes": 8,
+            "free_bases": 15
+        },
+        {
+            "id": 140,
+            "city": "Madrid",
+            "latitude": "40.4440297",
+            "longitude": "-3.6956047",
+            "name": "Agust\u00edn de Betancourt",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 11
+        },
+        {
+            "id": 141,
+            "city": "Madrid",
+            "latitude": "40.4415974",
+            "longitude": "-3.6927821",
+            "name": "Plaza de San Juan de la Cruz",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 15
+        },
+        {
+            "id": 142,
+            "city": "Madrid",
+            "latitude": "40.4453307",
+            "longitude": "-3.6908610",
+            "name": "Castellana 106",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 10
+        },
+        {
+            "id": 143,
+            "city": "Madrid",
+            "latitude": "40.4454110",
+            "longitude": "-3.6853312",
+            "name": "Plaza de la Rep\u00fablica Argentina",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 15
+        },
+        {
+            "id": 144,
+            "city": "Madrid",
+            "latitude": "40.4457414",
+            "longitude": "-3.6917932",
+            "name": "Paseo de la Castellana con Raimundo Fern\u00e1ndez",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 19
+        },
+        {
+            "id": 145,
+            "city": "Madrid",
+            "latitude": "40.4396792",
+            "longitude": "-3.6907784",
+            "name": "Jos\u00e9 Guti\u00e9rrez Abascal ",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 12
+        },
+        {
+            "id": 146,
+            "city": "Madrid",
+            "latitude": "40.4379444",
+            "longitude": "-3.6828620",
+            "name": "Vel\u00e1zquez 130",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 15
+        },
+        {
+            "id": 147,
+            "city": "Madrid",
+            "latitude": "40.4355143",
+            "longitude": "-3.6892368",
+            "name": "P\u00ba Castellana - Glorieta de Emilio Castelar",
+            "total_bases": 12,
+            "dock_bikes": 9,
+            "free_bases": 3
+        },
+        {
+            "id": 148,
+            "city": "Madrid",
+            "latitude": "40.4334087",
+            "longitude": "-3.6879154",
+            "name": "Castellana 42",
+            "total_bases": 24,
+            "dock_bikes": 14,
+            "free_bases": 9
+        },
+        {
+            "id": 149,
+            "city": "Madrid",
+            "latitude": "40.4345973",
+            "longitude": "-3.6784920",
+            "name": "Diego de Le\u00f3n 52",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 11
+        },
+        {
+            "id": 150,
+            "city": "Madrid",
+            "latitude": "40.4323655",
+            "longitude": "-3.6758555",
+            "name": "Juan Bravo 50",
+            "total_bases": 24,
+            "dock_bikes": 6,
+            "free_bases": 18
+        },
+        {
+            "id": 151,
+            "city": "Madrid",
+            "latitude": "40.4298870",
+            "longitude": "-3.6712823",
+            "name": "Ortega y Gasset 87",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 8
+        },
+        {
+            "id": 152,
+            "city": "Madrid",
+            "latitude": "40.4442258",
+            "longitude": "-3.6787169",
+            "name": "Mar\u00eda Francisca 1",
+            "total_bases": 18,
+            "dock_bikes": 9,
+            "free_bases": 8
+        },
+        {
+            "id": 153,
+            "city": "Madrid",
+            "latitude": "40.4483269",
+            "longitude": "-3.6797296",
+            "name": "Doctor Arce 45",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 18
+        },
+        {
+            "id": 154,
+            "city": "Madrid",
+            "latitude": "40.4510188",
+            "longitude": "-3.6817962",
+            "name": "Serrano 210",
+            "total_bases": 24,
+            "dock_bikes": 11,
+            "free_bases": 9
+        },
+        {
+            "id": 155,
+            "city": "Madrid",
+            "latitude": "40.4498613",
+            "longitude": "-3.6881689",
+            "name": "Paseo de la Habana 42",
+            "total_bases": 24,
+            "dock_bikes": 3,
+            "free_bases": 19
+        },
+        {
+            "id": 156,
+            "city": "Madrid",
+            "latitude": "40.4488924",
+            "longitude": "-3.6905604",
+            "name": "Castellana frente a Hermanos Pinz\u00f3n",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 11
+        },
+        {
+            "id": 157,
+            "city": "Madrid",
+            "latitude": "40.4480662",
+            "longitude": "-3.6952860",
+            "name": "Orense 12",
+            "total_bases": 24,
+            "dock_bikes": 10,
+            "free_bases": 10
+        },
+        {
+            "id": 158,
+            "city": "Madrid",
+            "latitude": "40.4527164",
+            "longitude": "-3.6990077",
+            "name": "General Per\u00f3n 1",
+            "total_bases": 24,
+            "dock_bikes": 16,
+            "free_bases": 7
+        },
+        {
+            "id": 159,
+            "city": "Madrid",
+            "latitude": "40.4522938",
+            "longitude": "-3.6926510",
+            "name": "General Per\u00f3n con Capit\u00e1n Haya",
+            "total_bases": 24,
+            "dock_bikes": 16,
+            "free_bases": 8
+        },
+        {
+            "id": 160,
+            "city": "Madrid",
+            "latitude": "40.4548456",
+            "longitude": "-3.6946218",
+            "name": "Orense 36",
+            "total_bases": 24,
+            "dock_bikes": 4,
+            "free_bases": 8
+        },
+        {
+            "id": 161,
+            "city": "Madrid",
+            "latitude": "40.4572824",
+            "longitude": "-3.7009675",
+            "name": "General Yag\u00fce",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 14
+        },
+        {
+            "id": 162,
+            "city": "Madrid",
+            "latitude": "40.4592351",
+            "longitude": "-3.6915330",
+            "name": "Sor \u00c1ngela de la Cruz",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 17
+        },
+        {
+            "id": 163,
+            "city": "Madrid",
+            "latitude": "40.4591366",
+            "longitude": "-3.6894151",
+            "name": "Castellana 164",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 12
+        },
+        {
+            "id": 164,
+            "city": "Madrid",
+            "latitude": "40.4585318",
+            "longitude": "-3.6847150",
+            "name": "Alberto Alcocer",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 17
+        },
+        {
+            "id": 165,
+            "city": "Madrid",
+            "latitude": "40.4543852",
+            "longitude": "-3.6835926",
+            "name": "Paseo de la Habana 63",
+            "total_bases": 24,
+            "dock_bikes": 13,
+            "free_bases": 11
+        },
+        {
+            "id": 166,
+            "city": "Madrid",
+            "latitude": "40.4572466",
+            "longitude": "-3.6763439",
+            "name": "Colombia",
+            "total_bases": 24,
+            "dock_bikes": 5,
+            "free_bases": 16
+        },
+        {
+            "id": 167,
+            "city": "Madrid",
+            "latitude": "40.4220812",
+            "longitude": "-3.7218482",
+            "name": "Paseo de la Florida",
+            "total_bases": 24,
+            "dock_bikes": 18,
+            "free_bases": 3
+        },
+        {
+            "id": 168,
+            "city": "Madrid",
+            "latitude": "40.4034076",
+            "longitude": "-3.7108108",
+            "name": "Metro Pir\u00e1mides",
+            "total_bases": 24,
+            "dock_bikes": 9,
+            "free_bases": 15
+        },
+        {
+            "id": 169,
+            "city": "Madrid",
+            "latitude": "40.4035988",
+            "longitude": "-3.7064516",
+            "name": "Paseo de la Esperanza",
+            "total_bases": 21,
+            "dock_bikes": 11,
+            "free_bases": 7
+        },
+        {
+            "id": 170,
+            "city": "Madrid",
+            "latitude": "40.3972616",
+            "longitude": "-3.6945025",
+            "name": "Paseo de las Delicias",
+            "total_bases": 24,
+            "dock_bikes": 12,
+            "free_bases": 12
+        },
+        {
+            "id": 171,
+            "city": "Madrid",
+            "latitude": "40.3919385",
+            "longitude": "-3.6971829",
+            "name": "Entrada Matadero",
+            "total_bases": 24,
+            "dock_bikes": 7,
+            "free_bases": 14
+        },
+        {
+            "id": 172,
+            "city": "Madrid",
+            "latitude": "40.4138333",
+            "longitude": "-3.7135833",
+            "name": "Segovia 26",
+            "total_bases": 24,
+            "dock_bikes": 2,
+            "free_bases": 22
+        }
+    ]
+}
