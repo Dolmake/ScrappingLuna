@@ -226,8 +226,9 @@ window.onload = function () {
     stationsModel.initialize(madrid_url, function() {
 
         console.log("Loaded madrid standard")
-
-         dashboard('#madrid_dashboard', stationsModel.transformStationsToD3());
+        stationsModel.sortStationsBy("total_bases")
+        var dataFromMadrid = stationsModel.transformStationsToD3()
+        dashboard('#madrid_dashboard',dataFromMadrid );
 
     })
     
