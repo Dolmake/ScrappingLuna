@@ -219,4 +219,17 @@ window.onload = function () {
     ];
 
     dashboard('#dashboard', freqData);
+
+    var stationsModel = new StationsModel();
+    var madrid_url = "./data/madrid_standard.json"
+    stationsModel.helloWorld()
+    stationsModel.initialize(madrid_url, function() {
+
+        console.log("Loaded madrid standard")
+
+         dashboard('#madrid_dashboard', stationsModel.transformStationsToD3());
+
+    })
+    
+
 }
