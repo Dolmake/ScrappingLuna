@@ -44,3 +44,15 @@ rect:hover {  fill:blue; }
     align:right;
     width:50px;
 }
+
+
+
+
+
+/* MIS CLASES   */
+
+.dashboard-container{
+    width: 80%;
+    margin: 0 auto;
+    background-color: lightblue;
+}

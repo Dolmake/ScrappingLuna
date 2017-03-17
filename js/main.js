@@ -220,15 +220,32 @@ window.onload = function () {
 
     dashboard('#dashboard', freqData);
 
-    var stationsModel = new StationsModel();
+    
+    
+    //Aqui cargamos Madrid
+    var madridStationsModel = new StationsModel();
     var madrid_url = "./data/madrid_standard.json"
-    stationsModel.helloWorld()
-    stationsModel.initialize(madrid_url, function() {
+    //madridStationsModel.helloWorld()
+    madridStationsModel.initialize(madrid_url, function() {
 
         console.log("Loaded madrid standard")
-        stationsModel.sortStationsBy("total_bases")
-        var dataFromMadrid = stationsModel.transformStationsToD3()
+        madridStationsModel.sortStationsBy("total_bases")
+        var dataFromMadrid = madridStationsModel.transformStationsToD3()
         dashboard('#madrid_dashboard',dataFromMadrid );
+
+    })
+
+
+      //Aqui cargamos Barcelona
+    var barcelonaStationsModel = new StationsModel();
+    var barcelona_url = "./data/barcelona_standard.json"
+    //barcelonaStationsModel.helloWorld()
+    barcelonaStationsModel.initialize(barcelona_url, function() {
+
+        console.log("Loaded barcelona standard")
+        barcelonaStationsModel.sortStationsBy("total_bases")
+        var dataFromBarcelona = barcelonaStationsModel.transformStationsToD3()
+        dashboard('#barcelona_dashboard',dataFromBarcelona );
 
     })
     
